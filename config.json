@@ -1,0 +1,49 @@
+{
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "username": "fivem",
+    "password": "mysqlTest",
+    "database": "fivem"
+  },
+  "discord": {
+    "use": false,
+    "token": "OTM2OTg5MjUwNDU1NDk4Nzgy.YfVNPQ.JSczHB8Hf-3x8Nm6Vl2FE2rRyY4",
+    "guildId": "936988717715972146"
+  },
+  "starting": {
+    "cash": 5000,
+    "bank": 5000,
+    "position": {
+      "x": -1037.8,
+      "y": -2737.86,
+      "z": 20.17,
+      "h": 324.34
+    }
+  },
+  "player": {
+    "serverName": "Los Santos Experience",
+    "serverMessage": "The LSE is a virtual world in which you can live the life you dream.",
+    "serverDescription": "'In this virtual world, you never truly die. Unless you delete yourself, but thats another story... Anyway. I'm your User Director, you can call me Alpha. Anytime you need help, want a little information about yourself, or just wanna say hi; come find me. You can view my Keybind in your settings menu once you have created your character. I hope to see you soon!'",
+    "characterSelection": {
+      "characterCount": 5,
+      "radius": 3,
+      "position": {
+        "x": -75.08,
+        "y": -818.97,
+        "z": 326.18
+      },
+      "keys": {
+        "left": [34, 174],
+        "right": [35, 175]
+      }
+    },
+    "voip": {},
+    "permissions": {
+      "owner": [ "941432926397145139" ],
+      "admin": [ "941433173840134176" ],
+      "mod": [ "941433612568502402" ],
+      "helper": [ "941433690054070283" ]
+    }
+  }
+}

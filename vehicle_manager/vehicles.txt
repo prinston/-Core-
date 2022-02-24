@@ -1,0 +1,758 @@
+jester	Dinka	Jester	Sports
+turismor	Grotti	Turismo R	Super
+alpha	Albany	Alpha	Sports
+vestra	Buckingham	Vestra	Planes
+verlierer2	Bravado	Verlierer	Sports
+mamba	Declasse	Mamba	Sports Classics
+nightshade	Imponte	Nightshade	Muscle
+cog55	Enus	Cognoscenti 55	Sedans
+cog552	Enus	Cognoscenti 55 (Armored)	Sedans
+cognoscenti	Enus	Cognoscenti	Sedans
+cognoscenti2	Enus	Cognoscenti (Armored)	Sedans
+schafter3	Benefactor	Schafter V12	Sports
+schafter4	Benefactor	Schafter LWB	Sports
+schafter5	Benefactor	Schafter V12 (Armored)	Sedans
+schafter6	Benefactor	Schafter LWB (Armored)	Sedans
+limo2	Benefactor	Turreted Limo	Sedans
+baller3	Gallivanter	Baller LE	SUVs
+baller4	Gallivanter	Baller LE LWB	SUVs
+baller5	Gallivanter	Baller LE (Armored)	SUVs
+baller6	Gallivanter	Baller LE LWB (Armored)	SUVs
+seashark3	Speedophile	Seashark	Boats
+dinghy4	Nagasaki	Dinghy	Boats
+tropic2	Shitzu	Tropic	Boats
+speeder2	Pegassi	Speeder	Boats
+toro2	Lampadati	Toro	Boats
+cargobob4	NULL	Cargobob	Helicopters
+supervolito	Buckingham	SuperVolito	Helicopters
+supervolito2	Buckingham	SuperVolito Carbon	Helicopters
+valkyrie2	NULL	Valkyrie MOD.0	Helicopters
+caracara	Vapid	Caracara	Off-road
+seasparrow	NULL	Sea Sparrow	Helicopters
+entity2	Overflod	Entity XXR	Super
+jester3	Dinka	Jester Classic	Sports
+tyrant	Overflod	Tyrant	Super
+dominator3	Vapid	Dominator GTX	Muscle
+hotring	Declasse	Hotring Sabre	Sports
+flashgt	Vapid	Flash GT	Sports
+tezeract	Pegassi	Tezeract	Super
+ellie	Vapid	Ellie	Muscle
+michelli	Lampadati	Michelli GT	Sports Classics
+gb200	Vapid	GB200	Sports
+issi3	Weeny	Issi Classic	Compacts
+taipan	Cheval	Taipan	Super
+fagaloa	Vulcar	Fagaloa	Sports Classics
+cheburek	RUNE	Cheburek	Sports Classics
+stafford	Enus	Stafford	Sedans
+scramjet	Declasse	Scramjet	Super
+strikeforce	NULL	B-11 Strikeforce	Planes
+terbyte	Benefactor	Terrorbyte	Commercial
+pbus2	NULL	Festival Bus	Service
+pounder2	MTL	Pounder Custom	Commercial
+freecrawler	Canis	Freecrawler	Off-road
+mule4	Maibatsu	Mule Custom	Commercial
+speedo4	Vapid	Speedo Custom	Vans
+blimp3	NULL	Blimp	Planes
+menacer	HVY	Menacer	Off-road
+swinger	Ocelot	Swinger	Sports Classics
+patriot2	Mammoth	Patriot Stretch	SUVs
+oppressor2	Pegassi	Oppressor Mk II	Motorcycles
+tornado6	Declasse	Tornado Rat Rod	Sports Classics
+raptor	BF	Raptor	Sports
+vortex	Pegassi	Vortex	Motorcycles
+avarus	LCC	Avarus	Motorcycles
+sanctus	LCC	Sanctus	Motorcycles
+faggio3	Pegassi	Faggio Mod	Motorcycles
+faggio	Pegassi	Faggio Sport	Motorcycles
+hakuchou2	Shitzu	Hakuchou Drag	Motorcycles
+nightblade	Western	Nightblade	Motorcycles
+youga2	Bravado	Youga Classic	Vans
+chimera	Nagasaki	Chimera	Motorcycles
+esskey	Pegassi	Esskey	Motorcycles
+zombiea	Western	Zombie Bobber	Motorcycles
+wolfsbane	Western	Wolfsbane	Motorcycles
+daemon2	Western	Daemon	Motorcycles
+shotaro	Nagasaki	Shotaro	Motorcycles
+ratbike	Western	Rat Bike	Motorcycles
+zombieb	Western	Zombie Chopper	Motorcycles
+defiler	Shitzu	Defiler	Motorcycles
+manchez	Maibatsu	Manchez	Motorcycles
+blazer4	Nagasaki	Street Blazer	Off-road
+slamvan	Vapid	Slamvan	Muscle
+ratloader2	Bravado	Rat-Truck	Muscle
+jester2	Dinka	Jester (Racecar)	Sports
+massacro2	Dewbauchee	Massacro (Racecar)	Sports
+comet5	Pfister	Comet SR	Sports
+raiden	Coil	Raiden	Sports
+viseris	Lampadati	Viseris	Sports Classics
+riata	Vapid	Riata	Off-road
+kamacho	Canis	Kamacho	Off-road
+sc1	Ubermacht	SC1	Super
+autarch	Overflod	Autarch	Super
+savestra	Annis	Savestra	Sports Classics
+comet4	Pfister	Comet Safari	Sports
+gt500	Grotti	GT500	Sports Classics
+neon	Pfister	Neon	Sports
+yosemite	Declasse	Yosemite	Muscle
+hermes	Albany	Hermes	Muscle
+hustler	Vapid	Hustler	Muscle
+sentinel3	Ubermacht	Sentinel Classic	Sports
+z190	Karin	190z	Sports Classics
+khanjali	NULL	TM-02 Khanjali	Military
+barrage	NULL	Barrage	Military
+volatol	NULL	Volatol	Planes
+akula	NULL	Akula	Helicopters
+avenger	Mammoth	Avenger	Planes
+avenger2	Mammoth	Avenger	Planes
+deluxo	Imponte	Deluxo	Sports Classics
+stromberg	Ocelot	Stromberg	Sports Classics
+chernobog	NULL	Chernobog	Military
+riot2	NULL	RCV	Emergency
+thruster	Mammoth	Thruster	Military
+streiter	Benefactor	Streiter	Sports
+revolter	Ubermacht	Revolter	Sports
+pariah	Ocelot	Pariah	Sports
+impaler3	Declasse	Future Shock Impaler	Muscle
+monster5	Bravado	Nightmare Sasquatch	Off-road
+slamvan6	Vapid	Nightmare Slamvan	Muscle
+issi6	Weeny	Nightmare Issi	Compacts
+cerberus3	MTL	Nightmare Cerberus	Commercial
+deathbike2	Western	Future Shock Deathbike	Motorcycles
+dominator6	Vapid	Nightmare Dominator	Muscle
+deathbike3	Western	Nightmare Deathbike	Motorcycles
+impaler4	Declasse	Nightmare Impaler	Muscle
+slamvan4	Vapid	Apocalypse Slamvan	Muscle
+slamvan5	Vapid	Future Shock Slamvan	Muscle
+brutus3	Declasse	Nightmare Brutus	Off-road
+brutus2	Declasse	Future Shock Brutus	Off-road
+brutus	Declasse	Apocalypse Brutus	Off-road
+deathbike	Western	Apocalypse Deathbike	Motorcycles
+bruiser	Benefactor	Apocalypse Bruiser	Off-road
+bruiser2	Benefactor	Future Shock Bruiser	Off-road
+bruiser3	Benefactor	Nightmare Bruiser	Off-road
+rcbandito	NULL	RC Bandito	Off-road
+cerberus	MTL	Apocalypse Cerberus	Commercial
+cerberus2	MTL	Future Shock Cerberus	Commercial
+impaler2	Declasse	Apocalypse Impaler	Muscle
+monster4	Bravado	Future Shock Sasquatch	Off-road
+monster3	Bravado	Apocalypse Sasquatch	Off-road
+tulip	Declasse	Tulip	Muscle
+italigto	Grotti	Itali GTO	Sports
+issi4	Weeny	Apocalypse Issi	Compacts
+issi5	Weeny	Future Shock Issi	Compacts
+scarab	HVY	Apocalypse Scarab	Military
+scarab2	HVY	Future Shock Scarab	Military
+scarab3	HVY	Nightmare Scarab	Military
+clique	Vapid	Clique	Muscle
+impaler	Declasse	Impaler	Muscle
+vamos	Declasse	Vamos	Muscle
+imperator	Vapid	Apocalypse Imperator	Muscle
+imperator2	Vapid	Future Shock Imperator	Muscle
+imperator3	Vapid	Nightmare Imperator	Muscle
+toros	Pegassi	Toros	SUVs
+schlagen	Benefactor	Schlagen GT	Sports
+deviant	Schyster	Deviant	Muscle
+dominator4	Vapid	Apocalypse Dominator	Muscle
+dominator5	Vapid	Future Shock Dominator	Muscle
+zr380	Annis	Apocalypse ZR380	Sports
+zr3802	Annis	Future Shock ZR380	Sports
+zr3803	Annis	Nightmare ZR380	Sports
+deveste	Principe	Deveste Eight	Super
+nimbus	Buckingham	Nimbus	Planes
+xls	Benefactor	XLS	SUVs
+xls2	Benefactor	XLS (Armored)	SUVs
+seven70	Dewbauchee	Seven-70	Sports
+reaper	Pegassi	Reaper	Super
+fmj	Vapid	FMJ	Super
+pfister811	Pfister	811	Super
+bestiagts	Grotti	Bestia GTS	Sports
+brickade	MTL	Brickade	Service
+rumpo3	Bravado	Rumpo Custom	Vans
+prototipo	Grotti	X80 Proto	Super
+windsor2	Enus	Windsor Drop	Coupes
+volatus	Buckingham	Volatus	Helicopters
+tug	NULL	Tug	Boats
+trailers4	NULL	Trailer	Utility
+xa21	Ocelot	XA-21	Super
+vagner	Dewbauchee	Vagner	Super
+caddy3	NULL	Caddy	Utility
+phantom3	JoBuilt	Phantom Custom	Commercial
+nightshark	HVY	Nightshark	Off-road
+cheetah2	Grotti	Cheetah Classic	Sports Classics
+torero	Pegassi	Torero	Sports Classics
+hauler2	JoBuilt	Hauler Custom	Commercial
+trailerlarge	NULL	Mobile Operations Center	Utility
+technical3	Karin	Technical Custom	Off-road
+tampa3	Declasse	Weaponized Tampa	Muscle
+insurgent3	HVY	Insurgent Pick-Up Custom	Off-road
+apc	HVY	APC	Military
+halftrack	Bravado	Half-track	Military
+dune3	BF	Dune FAV	Off-road
+trailersmall2	Vom Feuer	Anti-Aircraft Trailer	Military
+ardent	Ocelot	Ardent	Sports Classics
+oppressor	Pegassi	Oppressor	Motorcycles
+lurcher	Albany	Lurcher	Muscle
+btype2	Albany	Fränken Stange	Sports Classics
+mule3	Maibatsu	Mule	Commercial
+trash2	NULL	Trashmaster	Service
+velum2	NULL	Velum 5-Seater	Planes
+tanker2	NULL	NULL	Utility
+enduro	Dinka	Enduro	Motorcycles
+savage	NULL	Savage	Helicopters
+casco	Lampadati	Casco	Sports Classics
+technical	Karin	Technical	Off-road
+insurgent	HVY	Insurgent Pick-Up	Off-road
+insurgent2	HVY	Insurgent	Off-road
+hydra	Mammoth	Hydra	Planes
+boxville4	Brute	Boxville	Vans
+gburrito2	Declasse	Gang Burrito	Vans
+guardian	Vapid	Guardian	Industrial
+dinghy3	Nagasaki	Dinghy	Boats
+lectro	Principe	Lectro	Motorcycles
+kuruma	Karin	Kuruma	Sports
+kuruma2	Karin	Kuruma (Armored)	Sports
+barracks3	NULL	Barracks	Military
+valkyrie	NULL	Valkyrie	Helicopters
+slamvan2	Vapid	Lost Slamvan	Muscle
+retinue2	Vapid	Retinue Mk II	Sports Classics
+outlaw	Nagasaki	Outlaw	Off-road
+stryder	Nagasaki	Stryder	Motorcycles
+yosemite2	Declasse	Drift Yosemite	Muscle
+formula	Progen	PR4	Openwheel
+formula2	Ocelot	R88	Openwheel
+minitank	NULL	Invade and Persuade Tank	Military
+sugoi	Dinka	Sugoi	Sports
+sultan2	Karin	Sultan Classic	Sports
+everon	Karin	Everon	Off-road
+rebla	Ubermacht	Rebla GTS	SUVs
+vagrant	Maxwell	Vagrant	Off-road
+furia	Grotti	Furia	Super
+vstr	Albany	V-STR	Sports
+komoda	Lampadati	Komoda	Sports
+asbo	Maxwell	Asbo	Compacts
+zhaba	RUNE	Zhaba	Off-road
+jb7002	Dewbauchee	JB 700W	Sports Classics
+kanjo	Dinka	Blista Kanjo	Compacts
+imorgon	Overflod	Imorgon	Sports
+squaddie	Mammoth	Squaddie	SUVs
+annihilator2	NULL	Annihilator Stealth	Helicopters
+veto2	Dinka	Veto Modern	Sports
+veto	Dinka	Veto Classic	Sports
+italirsx	Grotti	Itali RSX	Sports
+toreador	Pegassi	Toreador	Sports Classics
+slamtruck	Vapid	Slamtruck	Utility
+weevil	BF	Weevil	Compacts
+alkonost	NULL	RO-86 Alkonost	Planes
+vetir	NULL	Vetir	Military
+patrolboat	NULL	Kurtz 31 Patrol Boat	Boats
+dinghy5	Nagasaki	Weaponized Dinghy	Boats
+avisa	Kraken	Avisa	Boats
+brioso2	Grotti	Brioso 300	Compacts
+verus	Dinka	Verus	Off-road
+longfin	Shitzu	Longfin	Boats
+seasparrow2	NULL	Sparrow	Helicopters
+seasparrow3	NULL	Sparrow	Helicopters
+winky	Vapid	Winky	Off-road
+manchez2	Maibatsu	Manchez Scout	Motorcycles
+kosatka	RUNE	Kosatka	Boats
+nero	Truffade	Nero	Super
+nero2	Truffade	Nero Custom	Super
+elegy	Annis	Elegy Retro Custom	Sports
+italigtb	Progen	Itali GTB	Super
+italigtb2	Progen	Itali GTB Custom	Super
+tempesta	Pegassi	Tempesta	Super
+diablous	Principe	Diabolus	Motorcycles
+specter	Dewbauchee	Specter	Sports
+specter2	Dewbauchee	Specter Custom	Sports
+diablous2	Principe	Diabolus Custom	Motorcycles
+comet3	Pfister	Comet Retro Custom	Sports
+blazer5	Nagasaki	Blazer Aqua	Off-road
+dune4	NULL	Ramp Buggy	Off-road
+dune5	NULL	Ramp Buggy	Off-road
+ruiner2	Imponte	Ruiner 2000	Muscle
+voltic2	Coil	Rocket Voltic	Super
+phantom2	JoBuilt	Phantom Wedge	Commercial
+boxville5	NULL	Armored Boxville	Vans
+wastelander	MTL	Wastelander	Service
+technical2	Karin	Technical Aqua	Off-road
+penetrator	Ocelot	Penetrator	Super
+fcr	Pegassi	FCR 1000	Motorcycles
+fcr2	Pegassi	FCR 1000 Custom	Motorcycles
+ruiner3	Imponte	Ruiner	Muscle
+sultanrs	Karin	Sultan RS	Super
+banshee2	Bravado	Banshee 900R	Super
+buccaneer2	Albany	Buccaneer Custom	Muscle
+voodoo	Declasse	Voodoo Custom	Muscle
+faction	Willard	Faction	Muscle
+faction2	Willard	Faction Custom	Muscle
+moonbeam	Declasse	Moonbeam	Muscle
+moonbeam2	Declasse	Moonbeam Custom	Muscle
+primo2	Albany	Primo Custom	Sedans
+chino2	Vapid	Chino Custom	Muscle
+faction3	Willard	Faction Custom Donk	Muscle
+minivan2	Vapid	Minivan Custom	Vans
+sabregt2	Declasse	Sabre Turbo Custom	Muscle
+slamvan3	Vapid	Slamvan Custom	Muscle
+tornado5	Declasse	Tornado Custom	Sports Classics
+virgo2	Dundreary	Virgo Classic Custom	Muscle
+virgo3	Dundreary	Virgo Classic	Muscle
+swift2	Buckingham	Swift Deluxe	Helicopters
+luxor2	Buckingham	Luxor Deluxe	Planes
+feltzer3	Benefactor	Stirling GT	Sports Classics
+osiris	Pegassi	Osiris	Super
+virgo	Albany	Virgo	Muscle
+windsor	Enus	Windsor	Coupes
+coquette3	Invetero	Coquette BlackFin	Muscle
+vindicator	Dinka	Vindicator	Motorcycles
+t20	Progen	T20	Super
+brawler	Coil	Brawler	Off-road
+toro	Lampadati	Toro	Boats
+chino	Vapid	Chino	Muscle
+shinobi	Nagasaki	Shinobi	Motorcycles
+reever	Western	Reever	Motorcycles
+champion	Dewbauchee	Champion	Super
+cinquemila	Lampadati	Cinquemila	Sedans
+iwagen	Obey	I-Wagen	SUVs
+comet7	Pfister	Comet S2 Cabrio	Sports
+astron	Pfister	Astron	SUVs
+baller7	Gallivanter	Baller ST	SUVs
+buffalo4	Bravado	Buffalo STX	Muscle
+deity	Enus	Deity	Sedans
+jubilee	Enus	Jubilee	SUVs
+granger2	Declasse	Granger 3600LX	SUVs
+ignus	Pegassi	Ignus	Super
+patriot3	Mammoth	Patriot Mil-Spec	Off-road
+youga4	Vapid	Youga Custom	Vans
+zeno	Overflod	Zeno	Super
+mule5	Maibatsu	Mule	Commercial
+vigilante	NULL	Vigilante	Super
+bombushka	NULL	RM-10 Bombushka	Planes
+howard	Buckingham	Howard NX-25	Planes
+alphaz1	Buckingham	Alpha-Z1	Planes
+seabreeze	Western	Seabreeze	Planes
+nokota	NULL	P-45 Nokota	Planes
+molotok	NULL	V-65 Molotok	Planes
+starling	NULL	LF-22 Starling	Planes
+havok	Nagasaki	Havok	Helicopters
+tula	Mammoth	Tula	Planes
+microlight	Nagasaki	Ultralight	Planes
+hunter	NULL	FH-1 Hunter	Helicopters
+rogue	Western	Rogue	Planes
+pyro	Buckingham	Pyro	Planes
+rapidgt3	Dewbauchee	Rapid GT Classic	Sports Classics
+mogul	Mammoth	Mogul	Planes
+retinue	Vapid	Retinue	Sports Classics
+cyclone	Coil	Cyclone	Super
+visione	Grotti	Visione	Super
+turismo2	Grotti	Turismo Classic	Sports Classics
+infernus2	Pegassi	Infernus Classic	Sports Classics
+gp1	Progen	GP1	Super
+ruston	Hijak	Ruston	Sports
+gargoyle	Western	Gargoyle	Motorcycles
+omnis	Obey	Omnis	Sports
+sheava	Emperor	ETR1	Super
+tyrus	Progen	Tyrus	Super
+le7b	Annis	RE-7B	Super
+lynx	Ocelot	Lynx	Sports
+tropos	Lampadati	Tropos Rallye	Sports
+tampa2	Declasse	Drift Tampa	Sports
+brioso	Grotti	Brioso R/A	Compacts
+bf400	Nagasaki	BF400	Motorcycles
+cliffhanger	Western	Cliffhanger	Motorcycles
+contender	Vapid	Contender	SUVs
+trophytruck	Vapid	Trophy Truck	Off-road
+trophytruck2	Vapid	Desert Raid	Off-road
+rallytruck	MTL	Dune	Service
+openwheel1	Benefactor	BR8	Openwheel
+coquette4	Invetero	Coquette D10	Sports
+tigon	Lampadati	Tigon	Super
+landstalker2	Dundreary	Landstalker XL	SUVs
+penumbra2	Maibatsu	Penumbra FF	Sports
+yosemite3	Declasse	Yosemite Rancher	Off-road
+club	BF	Club	Compacts
+seminole2	Canis	Seminole Frontier	SUVs
+openwheel2	Declasse	DR1	Openwheel
+gauntlet5	Bravado	Gauntlet Classic Custom	Muscle
+dukes3	Imponte	Beater Dukes	Muscle
+youga3	Bravado	Youga Classic 4x4	Vans
+glendale2	Benefactor	Glendale Custom	Sedans
+peyote3	Vapid	Peyote Custom	Sports Classics
+manana2	Albany	Manana Custom	Muscle
+freightcar2	NULL	Freight Train	Trains
+euros	Annis	Euros	Sports
+dominator8	Vapid	Dominator GTT	Muscle
+sultan3	Karin	Sultan RS Classic	Sports
+tailgater2	Obey	Tailgater S	Sedans
+futo2	Karin	Futo GTX	Sports
+rt3000	Dinka	RT3000	Sports
+dominator7	Vapid	Dominator ASP	Muscle
+comet6	Pfister	Comet S2	Sports
+growler	Pfister	Growler	Sports
+calico	Karin	Calico GTF	Sports
+remus	Annis	Remus	Sports
+zr350	Annis	ZR350	Sports
+previon	Karin	Previon	Coupes
+warrener2	Vulcar	Warrener HKR	Sedans
+cypher	Ubermacht	Cypher	Sports
+jester4	Dinka	Jester RR	Sports
+vectre	Emperor	Vectre	Sports
+btype3	Albany	Roosevelt Valor	Sports Classics
+paragon	Enus	Paragon R	Sports
+paragon2	Enus	Paragon R (Armored)	Sports
+jugular	Ocelot	Jugular	Sports
+rrocket	Western	Rampant Rocket	Motorcycles
+peyote2	Vapid	Peyote Gasser	Muscle
+neo	Vysser	Neo	Sports
+krieger	Benefactor	Krieger	Super
+s80	Annis	S80RR	Super
+dynasty	Weeny	Dynasty	Sports Classics
+caracara2	Vapid	Caracara 4x4	Off-road
+thrax	Truffade	Thrax	Super
+novak	Lampadati	Novak	SUVs
+zorrusso	Pegassi	Zorrusso	Super
+issi7	Weeny	Issi Sport	Sports
+locust	Ocelot	Locust	Sports
+emerus	Progen	Emerus	Super
+hellion	Annis	Hellion	Off-road
+gauntlet3	Bravado	Gauntlet Classic	Muscle
+gauntlet4	Bravado	Gauntlet Hellfire	Muscle
+nebula	Vulcar	Nebula Turbo	Sports Classics
+zion3	Ubermacht	Zion Classic	Sports Classics
+drafter	Obey	8F Drafter	Sports
+tampa	Declasse	Tampa	Muscle
+bifta	BF	Bifta	Off-road
+speeder	Pegassi	Speeder	Boats
+kalahari	Canis	Kalahari	Off-road
+paradise	Bravado	Paradise	Vans
+zentorno	Pegassi	Zentorno	Super
+massacro	Dewbauchee	Massacro	Sports
+huntley	Enus	Huntley S	SUVs
+thrust	Dinka	Thrust	Motorcycles
+rhapsody	Declasse	Rhapsody	Compacts
+warrener	Vulcar	Warrener	Sedans
+blade	Vapid	Blade	Muscle
+glendale	Benefactor	Glendale	Sedans
+panto	Benefactor	Panto	Compacts
+dubsta3	Benefactor	Dubsta 6x6	Off-road
+pigalle	Lampadati	Pigalle	Sports Classics
+monster	Vapid	Liberator	Off-road
+sovereign	Western	Sovereign	Motorcycles
+innovation	LCC	Innovation	Motorcycles
+hakuchou	Shitzu	Hakuchou	Motorcycles
+furoregt	Lampadati	Furore GT	Sports
+miljet	Buckingham	Miljet	Planes
+besra	Western	Besra	Planes
+coquette2	Invetero	Coquette Classic	Sports Classics
+swift	Buckingham	Swift	Helicopters
+btype	Albany	Roosevelt	Sports Classics
+submersible2	NULL	Kraken	Boats
+marshall	Cheval	Marshall	Off-road
+blimp2	NULL	Xero Blimp	Planes
+dukes	Imponte	Dukes	Muscle
+dukes2	Imponte	Duke O'Death	Muscle
+buffalo3	Bravado	Sprunk Buffalo	Sports
+dominator2	Vapid	Pisswasser Dominator	Muscle
+gauntlet2	Bravado	Redwood Gauntlet	Muscle
+stalion	Declasse	Stallion	Muscle
+stalion2	Declasse	Burger Shot Stallion	Muscle
+blista2	Dinka	Blista Compact	Sports
+blista3	Dinka	Go Go Monkey Blista	Sports
+dodo	Mammoth	Dodo	Planes
+ninef	Obey	9F	Sports
+ninef2	Obey	9F Cabrio	Sports
+asea	Declasse	Asea	Sedans
+boxville2	NULL	Boxville	Vans
+bulldozer	HVY	Dozer	Industrial
+cheetah	Grotti	Cheetah	Super
+cogcabrio	Enus	Cognoscenti Cabrio	Coupes
+dubsta	Benefactor	Dubsta	SUVs
+dubsta2	Benefactor	Dubsta	SUVs
+emperor	Albany	Emperor	Sedans
+entityxf	Overflod	Entity XF	Super
+firetruk	MTL	Fire Truck	Emergency
+fq2	Fathom	FQ 2	SUVs
+infernus	Pegassi	Infernus	Super
+jackal	Ocelot	Jackal	Coupes
+journey	Zirconium	Journey	Vans
+jb700	Dewbauchee	JB 700	Sports Classics
+oracle	Ubermacht	Oracle XS	Coupes
+patriot	Mammoth	Patriot	SUVs
+radi	Vapid	Radius	SUVs
+romero	Chariot	Romero Hearse	Sedans
+stinger	Grotti	Stinger	Sports Classics
+stockade	Brute	Stockade	Commercial
+superd	Enus	Super Diamond	Sedans
+tailgater	Obey	Tailgater	Sedans
+tornado	Declasse	Tornado	Sports Classics
+utillitruck	NULL	Utility Truck	Utility
+utillitruck2	NULL	Utility Truck	Utility
+voodoo2	Declasse	Voodoo	Muscle
+scorcher	NULL	Scorcher	Cycles
+policeb	NULL	Police Bike	Emergency
+hexer	LCC	Hexer	Motorcycles
+buzzard	NULL	Buzzard Attack Chopper	Helicopters
+polmav	NULL	Police Maverick	Helicopters
+cuban800	NULL	Cuban 800	Planes
+jet	NULL	Jet	Planes
+titan	NULL	Titan	Planes
+squalo	Shitzu	Squalo	Boats
+marquis	Dinka	Marquis	Boats
+freightcar	NULL	Freight Train	Trains
+freight	NULL	Freight Train	Trains
+freightcont1	NULL	Freight Train	Trains
+freightcont2	NULL	Freight Train	Trains
+freightgrain	NULL	Freight Train	Trains
+tankercar	NULL	Freight Train	Trains
+metrotrain	NULL	Freight Train	Trains
+trailers	NULL	Trailer	Utility
+tanker	NULL	Trailer	Utility
+trailerlogs	NULL	Trailer	Utility
+tr2	NULL	Trailer	Utility
+tr3	NULL	Trailer	Utility
+picador	Cheval	Picador	Muscle
+policeold1	NULL	Police Rancher	Emergency
+policeold2	NULL	Police Roadcruiser	Emergency
+asterope	Karin	Asterope	Sedans
+banshee	Bravado	Banshee	Sports
+buffalo	Bravado	Buffalo	Sports
+bullet	Vapid	Bullet	Super
+f620	Ocelot	F620	Coupes
+handler	NULL	Dock Handler	Industrial
+ruiner	Imponte	Ruiner	Muscle
+gburrito	Declasse	Gang Burrito	Vans
+tractor2	Stanley	Fieldmaster	Utility
+penumbra	Maibatsu	Penumbra	Sports
+submersible	NULL	Submersible	Boats
+docktug	NULL	Docktug	Utility
+docktrailer	NULL	NULL	Utility
+sultan	Karin	Sultan	Sports
+dilettante	Karin	Dilettante	Compacts
+futo	Karin	Futo	Sports
+habanero	Emperor	Habanero	SUVs
+intruder	Karin	Intruder	Sedans
+landstalker	Dundreary	Landstalker	SUVs
+minivan	Vapid	Minivan	Vans
+schafter2	Benefactor	Schafter	Sedans
+serrano	Benefactor	Serrano	SUVs
+manana	Albany	Manana	Sports Classics
+seashark2	Speedophile	Seashark	Boats
+youga	Bravado	Youga	Vans
+premier	Declasse	Premier	Sedans
+speedo	Vapid	Speedo	Vans
+washington	Albany	Washington	Sedans
+annihilator	NULL	Annihilator	Helicopters
+blazer2	Nagasaki	Blazer Lifeguard	Off-road
+cruiser	NULL	Cruiser	Cycles
+raketrailer	NULL	Trailer	Utility
+cargoplane	NULL	Cargo Plane	Planes
+dump	HVY	Dump	Industrial
+pony	Brute	Pony	Vans
+lguard	Declasse	Lifeguard	Emergency
+sentinel	Ubermacht	Sentinel XS	Coupes
+sentinel2	Ubermacht	Sentinel	Coupes
+comet2	Pfister	Comet	Sports
+stingergt	Grotti	Stinger GT	Sports Classics
+ingot	Vulcar	Ingot	Sedans
+peyote	Vapid	Peyote	Sports Classics
+stanier	Vapid	Stanier	Sedans
+stratum	Zirconium	Stratum	Sedans
+akuma	Dinka	Akuma	Motorcycles
+bati	Pegassi	Bati 801	Motorcycles
+bati2	Pegassi	Bati 801RR	Motorcycles
+pcj	Shitzu	PCJ 600	Motorcycles
+dloader	Bravado	Duneloader	Off-road
+prairie	Bollokan	Prairie	Compacts
+duster	NULL	Duster	Planes
+issi2	Weeny	Issi	Compacts
+trailers2	NULL	Trailer	Utility
+tvtrailer	NULL	Trailer	Utility
+cutter	HVY	Cutter	Industrial
+trflat	NULL	Trailer	Utility
+tornado2	Declasse	Tornado	Sports Classics
+tornado3	Declasse	Tornado	Sports Classics
+tribike	NULL	Whippet Race Bike	Cycles
+tribike2	NULL	Endurex Race Bike	Cycles
+tribike3	NULL	Tri-Cycles Race Bike	Cycles
+proptrailer	NULL	NULL	Utility
+burrito2	Declasse	Bugstars Burrito	Vans
+dune	BF	Dune Buggy	Off-road
+feltzer2	Benefactor	Feltzer	Sports
+blista	Dinka	Blista	Compacts
+bagger	Western	Bagger	Motorcycles
+voltic	Coil	Voltic	Super
+fugitive	Cheval	Fugitive	Sedans
+felon	Lampadati	Felon	Coupes
+pbus	NULL	Prison Bus	Emergency
+armytrailer	NULL	Army Trailer	Utility
+policet	NULL	Police Transporter	Emergency
+speedo2	Vapid	Clown Van	Vans
+felon2	Lampadati	Felon GT	Coupes
+bmx	NULL	BMX	Cycles
+exemplar	Dewbauchee	Exemplar	Coupes
+fusilade	Schyster	Fusilade	Sports
+boattrailer	NULL	Boat Trailer	Utility
+cavalcade	Albany	Cavalcade	SUVs
+surge	Cheval	Surge	Sedans
+buccaneer	Albany	Buccaneer	Muscle
+nemesis	Principe	Nemesis	Motorcycles
+armytanker	NULL	Army Trailer	Utility
+rocoto	Obey	Rocoto	SUVs
+stockade3	Brute	Stockade	Commercial
+rebel2	Karin	Rebel	Off-road
+schwarzer	Benefactor	Schwartzer	Sports
+scrap	NULL	Scrap Truck	Utility
+sandking	Vapid	Sandking XL	Off-road
+sandking2	Vapid	Sandking SWB	Off-road
+carbonizzare	Grotti	Carbonizzare	Sports
+rumpo	Bravado	Rumpo	Vans
+primo	Albany	Primo	Sedans
+sabregt	Declasse	Sabre Turbo	Muscle
+regina	Dundreary	Regina	Sedans
+jetmax	Shitzu	Jetmax	Boats
+tropic	Shitzu	Tropic	Boats
+vigero	Declasse	Vigero	Muscle
+police2	NULL	Police Cruiser	Emergency
+stretch	Dundreary	Stretch	Sedans
+dinghy2	Nagasaki	Dinghy	Boats
+boxville	Brute	Boxville	Vans
+luxor	Buckingham	Luxor	Planes
+police3	NULL	Police Cruiser	Emergency
+trailers3	NULL	Trailer	Utility
+double	Dinka	Double-T	Motorcycles
+tractor	NULL	Tractor	Utility
+biff	HVY	Biff	Commercial
+dominator	Vapid	Dominator	Muscle
+hauler	JoBuilt	Hauler	Commercial
+packer	MTL	Packer	Commercial
+phoenix	Imponte	Phoenix	Muscle
+sadler	Vapid	Sadler	Utility
+sadler2	Vapid	Sadler	Utility
+daemon	Western	Daemon	Motorcycles
+coach	NULL	Dashound	Service
+tornado4	Declasse	Tornado	Sports Classics
+ratloader	NULL	Rat-Loader	Muscle
+rapidgt	Dewbauchee	Rapid GT	Sports
+rapidgt2	Dewbauchee	Rapid GT	Sports
+surano	Benefactor	Surano	Sports
+bfinjection	BF	Injection	Off-road
+bison2	Bravado	Bison	Vans
+bison3	Bravado	Bison	Vans
+bodhi2	Canis	Bodhi	Off-road
+burrito	Declasse	Burrito	Vans
+burrito4	Declasse	Burrito	Vans
+rubble	JoBuilt	Rubble	Industrial
+tiptruck	Brute	Tipper	Industrial
+tiptruck2	NULL	Tipper	Industrial
+mixer	HVY	Mixer	Industrial
+mixer2	HVY	Mixer	Industrial
+phantom	JoBuilt	Phantom	Commercial
+pounder	MTL	Pounder	Commercial
+buzzard2	NULL	Buzzard	Helicopters
+frogger	NULL	Frogger	Helicopters
+airtug	NULL	Airtug	Utility
+benson	Vapid	Benson	Commercial
+ripley	NULL	Ripley	Utility
+ambulance	NULL	Ambulance	Emergency
+forklift	HVY	Forklift	Utility
+granger	Declasse	Granger	SUVs
+pranger	NULL	Park Ranger	Emergency
+trailersmall	NULL	Trailer	Utility
+barracks	NULL	Barracks	Military
+barracks2	HVY	Barracks Semi	Military
+crusader	Canis	Crusader	Military
+utillitruck3	NULL	Utility Truck	Utility
+sheriff	NULL	Sheriff Cruiser	Emergency
+monroe	Pegassi	Monroe	Sports Classics
+mule	Maibatsu	Mule	Commercial
+taco	NULL	Taco Van	Vans
+trash	NULL	Trashmaster	Service
+dinghy	Nagasaki	Dinghy	Boats
+blazer	Nagasaki	Blazer	Off-road
+maverick	NULL	Maverick	Helicopters
+cargobob	NULL	Cargobob	Helicopters
+cargobob3	NULL	Cargobob	Helicopters
+stunt	NULL	Mallard	Planes
+emperor3	Albany	Emperor	Sedans
+caddy	NULL	Caddy	Utility
+emperor2	Albany	Emperor	Sedans
+surfer2	BF	Surfer	Vans
+towtruck	NULL	Towtruck	Utility
+towtruck2	NULL	Towtruck	Utility
+baller	Gallivanter	Baller	SUVs
+surfer	BF	Surfer	Vans
+mammatus	NULL	Mammatus	Planes
+riot	NULL	Police Riot	Emergency
+velum	NULL	Velum	Planes
+rancherxl2	Declasse	Rancher XL	Off-road
+caddy2	NULL	Caddy	Utility
+airbus	NULL	Airport Bus	Service
+rentalbus	NULL	Rental Shuttle Bus	Service
+gresley	Bravado	Gresley	SUVs
+zion	Ubermacht	Zion	Coupes
+zion2	Ubermacht	Zion Cabrio	Coupes
+ruffian	Pegassi	Ruffian	Motorcycles
+adder	Truffade	Adder	Super
+vacca	Pegassi	Vacca	Super
+boxville3	Brute	Boxville	Vans
+suntrap	Shitzu	Suntrap	Boats
+bobcatxl	Vapid	Bobcat XL	Vans
+burrito3	Declasse	Burrito	Vans
+police4	NULL	Unmarked Cruiser	Emergency
+cablecar	NULL	Cable Car	Trains
+blimp	NULL	Atomic Blimp	Planes
+bus	NULL	Bus	Service
+dilettante2	Karin	Dilettante	Compacts
+rebel	Karin	Rusty Rebel	Off-road
+skylift	NULL	Skylift	Helicopters
+shamal	Buckingham	Shamal	Planes
+graintrailer	NULL	NULL	Utility
+vader	Shitzu	Vader	Motorcycles
+sheriff2	NULL	Sheriff SUV	Emergency
+baletrailer	NULL	Baletrailer	Utility
+tourbus	NULL	Tourbus	Service
+fixter	NULL	Fixter	Cycles
+oracle2	Ubermacht	Oracle	Coupes
+baller2	Gallivanter	Baller	SUVs
+buffalo2	Bravado	Buffalo S	Sports
+cavalcade2	Albany	Cavalcade	SUVs
+coquette	Invetero	Coquette	Sports
+tractor3	Stanley	Fieldmaster	Utility
+gauntlet	Bravado	Gauntlet	Muscle
+mesa	Canis	Mesa	SUVs
+police	NULL	Police Cruiser	Emergency
+cargobob2	NULL	Cargobob	Helicopters
+taxi	NULL	Taxi	Service
+sanchez	Maibatsu	Sanchez (livery)	Motorcycles
+flatbed	MTL	Flatbed	Industrial
+seminole	Canis	Seminole	SUVs
+mower	NULL	Lawn Mower	Utility
+ztype	Truffade	Z-Type	Sports Classics
+predator	NULL	Police Predator	Boats
+rumpo2	Bravado	Rumpo	Vans
+pony2	Brute	Pony	Vans
+bjxl	Karin	BeeJay XL	SUVs
+camper	Brute	Camper	Vans
+rancherxl	Declasse	Rancher XL	Off-road
+faggio2	Pegassi	Faggio	Motorcycles
+lazer	NULL	P-996 LAZER	Planes
+seashark	Speedophile	Seashark	Boats
+bison	Bravado	Bison	Vans
+fbi	NULL	FIB	Emergency
+fbi2	NULL	FIB	Emergency
+mule2	Maibatsu	Mule	Commercial
+rhino	NULL	Rhino Tank	Military
+burrito5	Declasse	Burrito	Vans
+asea2	Declasse	Asea	Sedans
+mesa2	Canis	Mesa	SUVs
+mesa3	Canis	Mesa	Off-road
+frogger2	NULL	Frogger	Helicopters
+hotknife	Vapid	Hotknife	Muscle
+elegy2	Annis	Elegy RH8	Sports
+khamelion	Hijak	Khamelion	Sports
+carbonrs	Nagasaki	Carbon RS	Motorcycles
+dune2	NULL	Space Docker	Off-road
+armytrailer2	NULL	Army Trailer	Utility
+freighttrailer	NULL	NULL	Utility
+tr4	NULL	Trailer	Utility
+blazer3	Nagasaki	Hot Rod Blazer	Off-road
+sanchez2	Maibatsu	Sanchez	Motorcycles

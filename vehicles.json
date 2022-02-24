@@ -1,0 +1,3792 @@
+{
+  "jester": {
+    "make": "Dinka",
+    "model": "Jester",
+    "class": "Sports"
+  },
+  "turismor": {
+    "make": "Grotti",
+    "model": "Turismo R",
+    "class": "Super"
+  },
+  "alpha": {
+    "make": "Albany",
+    "model": "Alpha",
+    "class": "Sports"
+  },
+  "vestra": {
+    "make": "Buckingham",
+    "model": "Vestra",
+    "class": "Planes"
+  },
+  "verlierer2": {
+    "make": "Bravado",
+    "model": "Verlierer",
+    "class": "Sports"
+  },
+  "mamba": {
+    "make": "Declasse",
+    "model": "Mamba",
+    "class": "Sports Classics"
+  },
+  "nightshade": {
+    "make": "Imponte",
+    "model": "Nightshade",
+    "class": "Muscle"
+  },
+  "cog55": {
+    "make": "Enus",
+    "model": "Cognoscenti 55",
+    "class": "Sedans"
+  },
+  "cog552": {
+    "make": "Enus",
+    "model": "Cognoscenti 55 (Armored)",
+    "class": "Sedans"
+  },
+  "cognoscenti": {
+    "make": "Enus",
+    "model": "Cognoscenti",
+    "class": "Sedans"
+  },
+  "cognoscenti2": {
+    "make": "Enus",
+    "model": "Cognoscenti (Armored)",
+    "class": "Sedans"
+  },
+  "schafter3": {
+    "make": "Benefactor",
+    "model": "Schafter V12",
+    "class": "Sports"
+  },
+  "schafter4": {
+    "make": "Benefactor",
+    "model": "Schafter LWB",
+    "class": "Sports"
+  },
+  "schafter5": {
+    "make": "Benefactor",
+    "model": "Schafter V12 (Armored)",
+    "class": "Sedans"
+  },
+  "schafter6": {
+    "make": "Benefactor",
+    "model": "Schafter LWB (Armored)",
+    "class": "Sedans"
+  },
+  "limo2": {
+    "make": "Benefactor",
+    "model": "Turreted Limo",
+    "class": "Sedans"
+  },
+  "baller3": {
+    "make": "Gallivanter",
+    "model": "Baller LE",
+    "class": "SUVs"
+  },
+  "baller4": {
+    "make": "Gallivanter",
+    "model": "Baller LE LWB",
+    "class": "SUVs"
+  },
+  "baller5": {
+    "make": "Gallivanter",
+    "model": "Baller LE (Armored)",
+    "class": "SUVs"
+  },
+  "baller6": {
+    "make": "Gallivanter",
+    "model": "Baller LE LWB (Armored)",
+    "class": "SUVs"
+  },
+  "seashark3": {
+    "make": "Speedophile",
+    "model": "Seashark",
+    "class": "Boats"
+  },
+  "dinghy4": {
+    "make": "Nagasaki",
+    "model": "Dinghy",
+    "class": "Boats"
+  },
+  "tropic2": {
+    "make": "Shitzu",
+    "model": "Tropic",
+    "class": "Boats"
+  },
+  "speeder2": {
+    "make": "Pegassi",
+    "model": "Speeder",
+    "class": "Boats"
+  },
+  "toro2": {
+    "make": "Lampadati",
+    "model": "Toro",
+    "class": "Boats"
+  },
+  "cargobob4": {
+    "make": "NULL",
+    "model": "Cargobob",
+    "class": "Helicopters"
+  },
+  "supervolito": {
+    "make": "Buckingham",
+    "model": "SuperVolito",
+    "class": "Helicopters"
+  },
+  "supervolito2": {
+    "make": "Buckingham",
+    "model": "SuperVolito Carbon",
+    "class": "Helicopters"
+  },
+  "valkyrie2": {
+    "make": "NULL",
+    "model": "Valkyrie MOD.0",
+    "class": "Helicopters"
+  },
+  "caracara": {
+    "make": "Vapid",
+    "model": "Caracara",
+    "class": "Off-road"
+  },
+  "seasparrow": {
+    "make": "NULL",
+    "model": "Sea Sparrow",
+    "class": "Helicopters"
+  },
+  "entity2": {
+    "make": "Overflod",
+    "model": "Entity XXR",
+    "class": "Super"
+  },
+  "jester3": {
+    "make": "Dinka",
+    "model": "Jester Classic",
+    "class": "Sports"
+  },
+  "tyrant": {
+    "make": "Overflod",
+    "model": "Tyrant",
+    "class": "Super"
+  },
+  "dominator3": {
+    "make": "Vapid",
+    "model": "Dominator GTX",
+    "class": "Muscle"
+  },
+  "hotring": {
+    "make": "Declasse",
+    "model": "Hotring Sabre",
+    "class": "Sports"
+  },
+  "flashgt": {
+    "make": "Vapid",
+    "model": "Flash GT",
+    "class": "Sports"
+  },
+  "tezeract": {
+    "make": "Pegassi",
+    "model": "Tezeract",
+    "class": "Super"
+  },
+  "ellie": {
+    "make": "Vapid",
+    "model": "Ellie",
+    "class": "Muscle"
+  },
+  "michelli": {
+    "make": "Lampadati",
+    "model": "Michelli GT",
+    "class": "Sports Classics"
+  },
+  "gb200": {
+    "make": "Vapid",
+    "model": "GB200",
+    "class": "Sports"
+  },
+  "issi3": {
+    "make": "Weeny",
+    "model": "Issi Classic",
+    "class": "Compacts"
+  },
+  "taipan": {
+    "make": "Cheval",
+    "model": "Taipan",
+    "class": "Super"
+  },
+  "fagaloa": {
+    "make": "Vulcar",
+    "model": "Fagaloa",
+    "class": "Sports Classics"
+  },
+  "cheburek": {
+    "make": "RUNE",
+    "model": "Cheburek",
+    "class": "Sports Classics"
+  },
+  "stafford": {
+    "make": "Enus",
+    "model": "Stafford",
+    "class": "Sedans"
+  },
+  "scramjet": {
+    "make": "Declasse",
+    "model": "Scramjet",
+    "class": "Super"
+  },
+  "strikeforce": {
+    "make": "NULL",
+    "model": "B-11 Strikeforce",
+    "class": "Planes"
+  },
+  "terbyte": {
+    "make": "Benefactor",
+    "model": "Terrorbyte",
+    "class": "Commercial"
+  },
+  "pbus2": {
+    "make": "NULL",
+    "model": "Festival Bus",
+    "class": "Service"
+  },
+  "pounder2": {
+    "make": "MTL",
+    "model": "Pounder Custom",
+    "class": "Commercial"
+  },
+  "freecrawler": {
+    "make": "Canis",
+    "model": "Freecrawler",
+    "class": "Off-road"
+  },
+  "mule4": {
+    "make": "Maibatsu",
+    "model": "Mule Custom",
+    "class": "Commercial"
+  },
+  "speedo4": {
+    "make": "Vapid",
+    "model": "Speedo Custom",
+    "class": "Vans"
+  },
+  "blimp3": {
+    "make": "NULL",
+    "model": "Blimp",
+    "class": "Planes"
+  },
+  "menacer": {
+    "make": "HVY",
+    "model": "Menacer",
+    "class": "Off-road"
+  },
+  "swinger": {
+    "make": "Ocelot",
+    "model": "Swinger",
+    "class": "Sports Classics"
+  },
+  "patriot2": {
+    "make": "Mammoth",
+    "model": "Patriot Stretch",
+    "class": "SUVs"
+  },
+  "oppressor2": {
+    "make": "Pegassi",
+    "model": "Oppressor Mk II",
+    "class": "Motorcycles"
+  },
+  "tornado6": {
+    "make": "Declasse",
+    "model": "Tornado Rat Rod",
+    "class": "Sports Classics"
+  },
+  "raptor": {
+    "make": "BF",
+    "model": "Raptor",
+    "class": "Sports"
+  },
+  "vortex": {
+    "make": "Pegassi",
+    "model": "Vortex",
+    "class": "Motorcycles"
+  },
+  "avarus": {
+    "make": "LCC",
+    "model": "Avarus",
+    "class": "Motorcycles"
+  },
+  "sanctus": {
+    "make": "LCC",
+    "model": "Sanctus",
+    "class": "Motorcycles"
+  },
+  "faggio3": {
+    "make": "Pegassi",
+    "model": "Faggio Mod",
+    "class": "Motorcycles"
+  },
+  "faggio": {
+    "make": "Pegassi",
+    "model": "Faggio Sport",
+    "class": "Motorcycles"
+  },
+  "hakuchou2": {
+    "make": "Shitzu",
+    "model": "Hakuchou Drag",
+    "class": "Motorcycles"
+  },
+  "nightblade": {
+    "make": "Western",
+    "model": "Nightblade",
+    "class": "Motorcycles"
+  },
+  "youga2": {
+    "make": "Bravado",
+    "model": "Youga Classic",
+    "class": "Vans"
+  },
+  "chimera": {
+    "make": "Nagasaki",
+    "model": "Chimera",
+    "class": "Motorcycles"
+  },
+  "esskey": {
+    "make": "Pegassi",
+    "model": "Esskey",
+    "class": "Motorcycles"
+  },
+  "zombiea": {
+    "make": "Western",
+    "model": "Zombie Bobber",
+    "class": "Motorcycles"
+  },
+  "wolfsbane": {
+    "make": "Western",
+    "model": "Wolfsbane",
+    "class": "Motorcycles"
+  },
+  "daemon2": {
+    "make": "Western",
+    "model": "Daemon",
+    "class": "Motorcycles"
+  },
+  "shotaro": {
+    "make": "Nagasaki",
+    "model": "Shotaro",
+    "class": "Motorcycles"
+  },
+  "ratbike": {
+    "make": "Western",
+    "model": "Rat Bike",
+    "class": "Motorcycles"
+  },
+  "zombieb": {
+    "make": "Western",
+    "model": "Zombie Chopper",
+    "class": "Motorcycles"
+  },
+  "defiler": {
+    "make": "Shitzu",
+    "model": "Defiler",
+    "class": "Motorcycles"
+  },
+  "manchez": {
+    "make": "Maibatsu",
+    "model": "Manchez",
+    "class": "Motorcycles"
+  },
+  "blazer4": {
+    "make": "Nagasaki",
+    "model": "Street Blazer",
+    "class": "Off-road"
+  },
+  "slamvan": {
+    "make": "Vapid",
+    "model": "Slamvan",
+    "class": "Muscle"
+  },
+  "ratloader2": {
+    "make": "Bravado",
+    "model": "Rat-Truck",
+    "class": "Muscle"
+  },
+  "jester2": {
+    "make": "Dinka",
+    "model": "Jester (Racecar)",
+    "class": "Sports"
+  },
+  "massacro2": {
+    "make": "Dewbauchee",
+    "model": "Massacro (Racecar)",
+    "class": "Sports"
+  },
+  "comet5": {
+    "make": "Pfister",
+    "model": "Comet SR",
+    "class": "Sports"
+  },
+  "raiden": {
+    "make": "Coil",
+    "model": "Raiden",
+    "class": "Sports"
+  },
+  "viseris": {
+    "make": "Lampadati",
+    "model": "Viseris",
+    "class": "Sports Classics"
+  },
+  "riata": {
+    "make": "Vapid",
+    "model": "Riata",
+    "class": "Off-road"
+  },
+  "kamacho": {
+    "make": "Canis",
+    "model": "Kamacho",
+    "class": "Off-road"
+  },
+  "sc1": {
+    "make": "Ubermacht",
+    "model": "SC1",
+    "class": "Super"
+  },
+  "autarch": {
+    "make": "Overflod",
+    "model": "Autarch",
+    "class": "Super"
+  },
+  "savestra": {
+    "make": "Annis",
+    "model": "Savestra",
+    "class": "Sports Classics"
+  },
+  "comet4": {
+    "make": "Pfister",
+    "model": "Comet Safari",
+    "class": "Sports"
+  },
+  "gt500": {
+    "make": "Grotti",
+    "model": "GT500",
+    "class": "Sports Classics"
+  },
+  "neon": {
+    "make": "Pfister",
+    "model": "Neon",
+    "class": "Sports"
+  },
+  "yosemite": {
+    "make": "Declasse",
+    "model": "Yosemite",
+    "class": "Muscle"
+  },
+  "hermes": {
+    "make": "Albany",
+    "model": "Hermes",
+    "class": "Muscle"
+  },
+  "hustler": {
+    "make": "Vapid",
+    "model": "Hustler",
+    "class": "Muscle"
+  },
+  "sentinel3": {
+    "make": "Ubermacht",
+    "model": "Sentinel Classic",
+    "class": "Sports"
+  },
+  "z190": {
+    "make": "Karin",
+    "model": "190z",
+    "class": "Sports Classics"
+  },
+  "khanjali": {
+    "make": "NULL",
+    "model": "TM-02 Khanjali",
+    "class": "Military"
+  },
+  "barrage": {
+    "make": "NULL",
+    "model": "Barrage",
+    "class": "Military"
+  },
+  "volatol": {
+    "make": "NULL",
+    "model": "Volatol",
+    "class": "Planes"
+  },
+  "akula": {
+    "make": "NULL",
+    "model": "Akula",
+    "class": "Helicopters"
+  },
+  "avenger": {
+    "make": "Mammoth",
+    "model": "Avenger",
+    "class": "Planes"
+  },
+  "avenger2": {
+    "make": "Mammoth",
+    "model": "Avenger",
+    "class": "Planes"
+  },
+  "deluxo": {
+    "make": "Imponte",
+    "model": "Deluxo",
+    "class": "Sports Classics"
+  },
+  "stromberg": {
+    "make": "Ocelot",
+    "model": "Stromberg",
+    "class": "Sports Classics"
+  },
+  "chernobog": {
+    "make": "NULL",
+    "model": "Chernobog",
+    "class": "Military"
+  },
+  "riot2": {
+    "make": "NULL",
+    "model": "RCV",
+    "class": "Emergency"
+  },
+  "thruster": {
+    "make": "Mammoth",
+    "model": "Thruster",
+    "class": "Military"
+  },
+  "streiter": {
+    "make": "Benefactor",
+    "model": "Streiter",
+    "class": "Sports"
+  },
+  "revolter": {
+    "make": "Ubermacht",
+    "model": "Revolter",
+    "class": "Sports"
+  },
+  "pariah": {
+    "make": "Ocelot",
+    "model": "Pariah",
+    "class": "Sports"
+  },
+  "impaler3": {
+    "make": "Declasse",
+    "model": "Future Shock Impaler",
+    "class": "Muscle"
+  },
+  "monster5": {
+    "make": "Bravado",
+    "model": "Nightmare Sasquatch",
+    "class": "Off-road"
+  },
+  "slamvan6": {
+    "make": "Vapid",
+    "model": "Nightmare Slamvan",
+    "class": "Muscle"
+  },
+  "issi6": {
+    "make": "Weeny",
+    "model": "Nightmare Issi",
+    "class": "Compacts"
+  },
+  "cerberus3": {
+    "make": "MTL",
+    "model": "Nightmare Cerberus",
+    "class": "Commercial"
+  },
+  "deathbike2": {
+    "make": "Western",
+    "model": "Future Shock Deathbike",
+    "class": "Motorcycles"
+  },
+  "dominator6": {
+    "make": "Vapid",
+    "model": "Nightmare Dominator",
+    "class": "Muscle"
+  },
+  "deathbike3": {
+    "make": "Western",
+    "model": "Nightmare Deathbike",
+    "class": "Motorcycles"
+  },
+  "impaler4": {
+    "make": "Declasse",
+    "model": "Nightmare Impaler",
+    "class": "Muscle"
+  },
+  "slamvan4": {
+    "make": "Vapid",
+    "model": "Apocalypse Slamvan",
+    "class": "Muscle"
+  },
+  "slamvan5": {
+    "make": "Vapid",
+    "model": "Future Shock Slamvan",
+    "class": "Muscle"
+  },
+  "brutus3": {
+    "make": "Declasse",
+    "model": "Nightmare Brutus",
+    "class": "Off-road"
+  },
+  "brutus2": {
+    "make": "Declasse",
+    "model": "Future Shock Brutus",
+    "class": "Off-road"
+  },
+  "brutus": {
+    "make": "Declasse",
+    "model": "Apocalypse Brutus",
+    "class": "Off-road"
+  },
+  "deathbike": {
+    "make": "Western",
+    "model": "Apocalypse Deathbike",
+    "class": "Motorcycles"
+  },
+  "bruiser": {
+    "make": "Benefactor",
+    "model": "Apocalypse Bruiser",
+    "class": "Off-road"
+  },
+  "bruiser2": {
+    "make": "Benefactor",
+    "model": "Future Shock Bruiser",
+    "class": "Off-road"
+  },
+  "bruiser3": {
+    "make": "Benefactor",
+    "model": "Nightmare Bruiser",
+    "class": "Off-road"
+  },
+  "rcbandito": {
+    "make": "NULL",
+    "model": "RC Bandito",
+    "class": "Off-road"
+  },
+  "cerberus": {
+    "make": "MTL",
+    "model": "Apocalypse Cerberus",
+    "class": "Commercial"
+  },
+  "cerberus2": {
+    "make": "MTL",
+    "model": "Future Shock Cerberus",
+    "class": "Commercial"
+  },
+  "impaler2": {
+    "make": "Declasse",
+    "model": "Apocalypse Impaler",
+    "class": "Muscle"
+  },
+  "monster4": {
+    "make": "Bravado",
+    "model": "Future Shock Sasquatch",
+    "class": "Off-road"
+  },
+  "monster3": {
+    "make": "Bravado",
+    "model": "Apocalypse Sasquatch",
+    "class": "Off-road"
+  },
+  "tulip": {
+    "make": "Declasse",
+    "model": "Tulip",
+    "class": "Muscle"
+  },
+  "italigto": {
+    "make": "Grotti",
+    "model": "Itali GTO",
+    "class": "Sports"
+  },
+  "issi4": {
+    "make": "Weeny",
+    "model": "Apocalypse Issi",
+    "class": "Compacts"
+  },
+  "issi5": {
+    "make": "Weeny",
+    "model": "Future Shock Issi",
+    "class": "Compacts"
+  },
+  "scarab": {
+    "make": "HVY",
+    "model": "Apocalypse Scarab",
+    "class": "Military"
+  },
+  "scarab2": {
+    "make": "HVY",
+    "model": "Future Shock Scarab",
+    "class": "Military"
+  },
+  "scarab3": {
+    "make": "HVY",
+    "model": "Nightmare Scarab",
+    "class": "Military"
+  },
+  "clique": {
+    "make": "Vapid",
+    "model": "Clique",
+    "class": "Muscle"
+  },
+  "impaler": {
+    "make": "Declasse",
+    "model": "Impaler",
+    "class": "Muscle"
+  },
+  "vamos": {
+    "make": "Declasse",
+    "model": "Vamos",
+    "class": "Muscle"
+  },
+  "imperator": {
+    "make": "Vapid",
+    "model": "Apocalypse Imperator",
+    "class": "Muscle"
+  },
+  "imperator2": {
+    "make": "Vapid",
+    "model": "Future Shock Imperator",
+    "class": "Muscle"
+  },
+  "imperator3": {
+    "make": "Vapid",
+    "model": "Nightmare Imperator",
+    "class": "Muscle"
+  },
+  "toros": {
+    "make": "Pegassi",
+    "model": "Toros",
+    "class": "SUVs"
+  },
+  "schlagen": {
+    "make": "Benefactor",
+    "model": "Schlagen GT",
+    "class": "Sports"
+  },
+  "deviant": {
+    "make": "Schyster",
+    "model": "Deviant",
+    "class": "Muscle"
+  },
+  "dominator4": {
+    "make": "Vapid",
+    "model": "Apocalypse Dominator",
+    "class": "Muscle"
+  },
+  "dominator5": {
+    "make": "Vapid",
+    "model": "Future Shock Dominator",
+    "class": "Muscle"
+  },
+  "zr380": {
+    "make": "Annis",
+    "model": "Apocalypse ZR380",
+    "class": "Sports"
+  },
+  "zr3802": {
+    "make": "Annis",
+    "model": "Future Shock ZR380",
+    "class": "Sports"
+  },
+  "zr3803": {
+    "make": "Annis",
+    "model": "Nightmare ZR380",
+    "class": "Sports"
+  },
+  "deveste": {
+    "make": "Principe",
+    "model": "Deveste Eight",
+    "class": "Super"
+  },
+  "nimbus": {
+    "make": "Buckingham",
+    "model": "Nimbus",
+    "class": "Planes"
+  },
+  "xls": {
+    "make": "Benefactor",
+    "model": "XLS",
+    "class": "SUVs"
+  },
+  "xls2": {
+    "make": "Benefactor",
+    "model": "XLS (Armored)",
+    "class": "SUVs"
+  },
+  "seven70": {
+    "make": "Dewbauchee",
+    "model": "Seven-70",
+    "class": "Sports"
+  },
+  "reaper": {
+    "make": "Pegassi",
+    "model": "Reaper",
+    "class": "Super"
+  },
+  "fmj": {
+    "make": "Vapid",
+    "model": "FMJ",
+    "class": "Super"
+  },
+  "pfister811": {
+    "make": "Pfister",
+    "model": "811",
+    "class": "Super"
+  },
+  "bestiagts": {
+    "make": "Grotti",
+    "model": "Bestia GTS",
+    "class": "Sports"
+  },
+  "brickade": {
+    "make": "MTL",
+    "model": "Brickade",
+    "class": "Service"
+  },
+  "rumpo3": {
+    "make": "Bravado",
+    "model": "Rumpo Custom",
+    "class": "Vans"
+  },
+  "prototipo": {
+    "make": "Grotti",
+    "model": "X80 Proto",
+    "class": "Super"
+  },
+  "windsor2": {
+    "make": "Enus",
+    "model": "Windsor Drop",
+    "class": "Coupes"
+  },
+  "volatus": {
+    "make": "Buckingham",
+    "model": "Volatus",
+    "class": "Helicopters"
+  },
+  "tug": {
+    "make": "NULL",
+    "model": "Tug",
+    "class": "Boats"
+  },
+  "trailers4": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "xa21": {
+    "make": "Ocelot",
+    "model": "XA-21",
+    "class": "Super"
+  },
+  "vagner": {
+    "make": "Dewbauchee",
+    "model": "Vagner",
+    "class": "Super"
+  },
+  "caddy3": {
+    "make": "NULL",
+    "model": "Caddy",
+    "class": "Utility"
+  },
+  "phantom3": {
+    "make": "JoBuilt",
+    "model": "Phantom Custom",
+    "class": "Commercial"
+  },
+  "nightshark": {
+    "make": "HVY",
+    "model": "Nightshark",
+    "class": "Off-road"
+  },
+  "cheetah2": {
+    "make": "Grotti",
+    "model": "Cheetah Classic",
+    "class": "Sports Classics"
+  },
+  "torero": {
+    "make": "Pegassi",
+    "model": "Torero",
+    "class": "Sports Classics"
+  },
+  "hauler2": {
+    "make": "JoBuilt",
+    "model": "Hauler Custom",
+    "class": "Commercial"
+  },
+  "trailerlarge": {
+    "make": "NULL",
+    "model": "Mobile Operations Center",
+    "class": "Utility"
+  },
+  "technical3": {
+    "make": "Karin",
+    "model": "Technical Custom",
+    "class": "Off-road"
+  },
+  "tampa3": {
+    "make": "Declasse",
+    "model": "Weaponized Tampa",
+    "class": "Muscle"
+  },
+  "insurgent3": {
+    "make": "HVY",
+    "model": "Insurgent Pick-Up Custom",
+    "class": "Off-road"
+  },
+  "apc": {
+    "make": "HVY",
+    "model": "APC",
+    "class": "Military"
+  },
+  "halftrack": {
+    "make": "Bravado",
+    "model": "Half-track",
+    "class": "Military"
+  },
+  "dune3": {
+    "make": "BF",
+    "model": "Dune FAV",
+    "class": "Off-road"
+  },
+  "trailersmall2": {
+    "make": "Vom Feuer",
+    "model": "Anti-Aircraft Trailer",
+    "class": "Military"
+  },
+  "ardent": {
+    "make": "Ocelot",
+    "model": "Ardent",
+    "class": "Sports Classics"
+  },
+  "oppressor": {
+    "make": "Pegassi",
+    "model": "Oppressor",
+    "class": "Motorcycles"
+  },
+  "lurcher": {
+    "make": "Albany",
+    "model": "Lurcher",
+    "class": "Muscle"
+  },
+  "btype2": {
+    "make": "Albany",
+    "model": "Fränken Stange",
+    "class": "Sports Classics"
+  },
+  "mule3": {
+    "make": "Maibatsu",
+    "model": "Mule",
+    "class": "Commercial"
+  },
+  "trash2": {
+    "make": "NULL",
+    "model": "Trashmaster",
+    "class": "Service"
+  },
+  "velum2": {
+    "make": "NULL",
+    "model": "Velum 5-Seater",
+    "class": "Planes"
+  },
+  "tanker2": {
+    "make": "NULL",
+    "model": "NULL",
+    "class": "Utility"
+  },
+  "enduro": {
+    "make": "Dinka",
+    "model": "Enduro",
+    "class": "Motorcycles"
+  },
+  "savage": {
+    "make": "NULL",
+    "model": "Savage",
+    "class": "Helicopters"
+  },
+  "casco": {
+    "make": "Lampadati",
+    "model": "Casco",
+    "class": "Sports Classics"
+  },
+  "technical": {
+    "make": "Karin",
+    "model": "Technical",
+    "class": "Off-road"
+  },
+  "insurgent": {
+    "make": "HVY",
+    "model": "Insurgent Pick-Up",
+    "class": "Off-road"
+  },
+  "insurgent2": {
+    "make": "HVY",
+    "model": "Insurgent",
+    "class": "Off-road"
+  },
+  "hydra": {
+    "make": "Mammoth",
+    "model": "Hydra",
+    "class": "Planes"
+  },
+  "boxville4": {
+    "make": "Brute",
+    "model": "Boxville",
+    "class": "Vans"
+  },
+  "gburrito2": {
+    "make": "Declasse",
+    "model": "Gang Burrito",
+    "class": "Vans"
+  },
+  "guardian": {
+    "make": "Vapid",
+    "model": "Guardian",
+    "class": "Industrial"
+  },
+  "dinghy3": {
+    "make": "Nagasaki",
+    "model": "Dinghy",
+    "class": "Boats"
+  },
+  "lectro": {
+    "make": "Principe",
+    "model": "Lectro",
+    "class": "Motorcycles"
+  },
+  "kuruma": {
+    "make": "Karin",
+    "model": "Kuruma",
+    "class": "Sports"
+  },
+  "kuruma2": {
+    "make": "Karin",
+    "model": "Kuruma (Armored)",
+    "class": "Sports"
+  },
+  "barracks3": {
+    "make": "NULL",
+    "model": "Barracks",
+    "class": "Military"
+  },
+  "valkyrie": {
+    "make": "NULL",
+    "model": "Valkyrie",
+    "class": "Helicopters"
+  },
+  "slamvan2": {
+    "make": "Vapid",
+    "model": "Lost Slamvan",
+    "class": "Muscle"
+  },
+  "retinue2": {
+    "make": "Vapid",
+    "model": "Retinue Mk II",
+    "class": "Sports Classics"
+  },
+  "outlaw": {
+    "make": "Nagasaki",
+    "model": "Outlaw",
+    "class": "Off-road"
+  },
+  "stryder": {
+    "make": "Nagasaki",
+    "model": "Stryder",
+    "class": "Motorcycles"
+  },
+  "yosemite2": {
+    "make": "Declasse",
+    "model": "Drift Yosemite",
+    "class": "Muscle"
+  },
+  "formula": {
+    "make": "Progen",
+    "model": "PR4",
+    "class": "Openwheel"
+  },
+  "formula2": {
+    "make": "Ocelot",
+    "model": "R88",
+    "class": "Openwheel"
+  },
+  "minitank": {
+    "make": "NULL",
+    "model": "Invade and Persuade Tank",
+    "class": "Military"
+  },
+  "sugoi": {
+    "make": "Dinka",
+    "model": "Sugoi",
+    "class": "Sports"
+  },
+  "sultan2": {
+    "make": "Karin",
+    "model": "Sultan Classic",
+    "class": "Sports"
+  },
+  "everon": {
+    "make": "Karin",
+    "model": "Everon",
+    "class": "Off-road"
+  },
+  "rebla": {
+    "make": "Ubermacht",
+    "model": "Rebla GTS",
+    "class": "SUVs"
+  },
+  "vagrant": {
+    "make": "Maxwell",
+    "model": "Vagrant",
+    "class": "Off-road"
+  },
+  "furia": {
+    "make": "Grotti",
+    "model": "Furia",
+    "class": "Super"
+  },
+  "vstr": {
+    "make": "Albany",
+    "model": "V-STR",
+    "class": "Sports"
+  },
+  "komoda": {
+    "make": "Lampadati",
+    "model": "Komoda",
+    "class": "Sports"
+  },
+  "asbo": {
+    "make": "Maxwell",
+    "model": "Asbo",
+    "class": "Compacts"
+  },
+  "zhaba": {
+    "make": "RUNE",
+    "model": "Zhaba",
+    "class": "Off-road"
+  },
+  "jb7002": {
+    "make": "Dewbauchee",
+    "model": "JB 700W",
+    "class": "Sports Classics"
+  },
+  "kanjo": {
+    "make": "Dinka",
+    "model": "Blista Kanjo",
+    "class": "Compacts"
+  },
+  "imorgon": {
+    "make": "Overflod",
+    "model": "Imorgon",
+    "class": "Sports"
+  },
+  "squaddie": {
+    "make": "Mammoth",
+    "model": "Squaddie",
+    "class": "SUVs"
+  },
+  "annihilator2": {
+    "make": "NULL",
+    "model": "Annihilator Stealth",
+    "class": "Helicopters"
+  },
+  "veto2": {
+    "make": "Dinka",
+    "model": "Veto Modern",
+    "class": "Sports"
+  },
+  "veto": {
+    "make": "Dinka",
+    "model": "Veto Classic",
+    "class": "Sports"
+  },
+  "italirsx": {
+    "make": "Grotti",
+    "model": "Itali RSX",
+    "class": "Sports"
+  },
+  "toreador": {
+    "make": "Pegassi",
+    "model": "Toreador",
+    "class": "Sports Classics"
+  },
+  "slamtruck": {
+    "make": "Vapid",
+    "model": "Slamtruck",
+    "class": "Utility"
+  },
+  "weevil": {
+    "make": "BF",
+    "model": "Weevil",
+    "class": "Compacts"
+  },
+  "alkonost": {
+    "make": "NULL",
+    "model": "RO-86 Alkonost",
+    "class": "Planes"
+  },
+  "vetir": {
+    "make": "NULL",
+    "model": "Vetir",
+    "class": "Military"
+  },
+  "patrolboat": {
+    "make": "NULL",
+    "model": "Kurtz 31 Patrol Boat",
+    "class": "Boats"
+  },
+  "dinghy5": {
+    "make": "Nagasaki",
+    "model": "Weaponized Dinghy",
+    "class": "Boats"
+  },
+  "avisa": {
+    "make": "Kraken",
+    "model": "Avisa",
+    "class": "Boats"
+  },
+  "brioso2": {
+    "make": "Grotti",
+    "model": "Brioso 300",
+    "class": "Compacts"
+  },
+  "verus": {
+    "make": "Dinka",
+    "model": "Verus",
+    "class": "Off-road"
+  },
+  "longfin": {
+    "make": "Shitzu",
+    "model": "Longfin",
+    "class": "Boats"
+  },
+  "seasparrow2": {
+    "make": "NULL",
+    "model": "Sparrow",
+    "class": "Helicopters"
+  },
+  "seasparrow3": {
+    "make": "NULL",
+    "model": "Sparrow",
+    "class": "Helicopters"
+  },
+  "winky": {
+    "make": "Vapid",
+    "model": "Winky",
+    "class": "Off-road"
+  },
+  "manchez2": {
+    "make": "Maibatsu",
+    "model": "Manchez Scout",
+    "class": "Motorcycles"
+  },
+  "kosatka": {
+    "make": "RUNE",
+    "model": "Kosatka",
+    "class": "Boats"
+  },
+  "nero": {
+    "make": "Truffade",
+    "model": "Nero",
+    "class": "Super"
+  },
+  "nero2": {
+    "make": "Truffade",
+    "model": "Nero Custom",
+    "class": "Super"
+  },
+  "elegy": {
+    "make": "Annis",
+    "model": "Elegy Retro Custom",
+    "class": "Sports"
+  },
+  "italigtb": {
+    "make": "Progen",
+    "model": "Itali GTB",
+    "class": "Super"
+  },
+  "italigtb2": {
+    "make": "Progen",
+    "model": "Itali GTB Custom",
+    "class": "Super"
+  },
+  "tempesta": {
+    "make": "Pegassi",
+    "model": "Tempesta",
+    "class": "Super"
+  },
+  "diablous": {
+    "make": "Principe",
+    "model": "Diabolus",
+    "class": "Motorcycles"
+  },
+  "specter": {
+    "make": "Dewbauchee",
+    "model": "Specter",
+    "class": "Sports"
+  },
+  "specter2": {
+    "make": "Dewbauchee",
+    "model": "Specter Custom",
+    "class": "Sports"
+  },
+  "diablous2": {
+    "make": "Principe",
+    "model": "Diabolus Custom",
+    "class": "Motorcycles"
+  },
+  "comet3": {
+    "make": "Pfister",
+    "model": "Comet Retro Custom",
+    "class": "Sports"
+  },
+  "blazer5": {
+    "make": "Nagasaki",
+    "model": "Blazer Aqua",
+    "class": "Off-road"
+  },
+  "dune4": {
+    "make": "NULL",
+    "model": "Ramp Buggy",
+    "class": "Off-road"
+  },
+  "dune5": {
+    "make": "NULL",
+    "model": "Ramp Buggy",
+    "class": "Off-road"
+  },
+  "ruiner2": {
+    "make": "Imponte",
+    "model": "Ruiner 2000",
+    "class": "Muscle"
+  },
+  "voltic2": {
+    "make": "Coil",
+    "model": "Rocket Voltic",
+    "class": "Super"
+  },
+  "phantom2": {
+    "make": "JoBuilt",
+    "model": "Phantom Wedge",
+    "class": "Commercial"
+  },
+  "boxville5": {
+    "make": "NULL",
+    "model": "Armored Boxville",
+    "class": "Vans"
+  },
+  "wastelander": {
+    "make": "MTL",
+    "model": "Wastelander",
+    "class": "Service"
+  },
+  "technical2": {
+    "make": "Karin",
+    "model": "Technical Aqua",
+    "class": "Off-road"
+  },
+  "penetrator": {
+    "make": "Ocelot",
+    "model": "Penetrator",
+    "class": "Super"
+  },
+  "fcr": {
+    "make": "Pegassi",
+    "model": "FCR 1000",
+    "class": "Motorcycles"
+  },
+  "fcr2": {
+    "make": "Pegassi",
+    "model": "FCR 1000 Custom",
+    "class": "Motorcycles"
+  },
+  "ruiner3": {
+    "make": "Imponte",
+    "model": "Ruiner",
+    "class": "Muscle"
+  },
+  "sultanrs": {
+    "make": "Karin",
+    "model": "Sultan RS",
+    "class": "Super"
+  },
+  "banshee2": {
+    "make": "Bravado",
+    "model": "Banshee 900R",
+    "class": "Super"
+  },
+  "buccaneer2": {
+    "make": "Albany",
+    "model": "Buccaneer Custom",
+    "class": "Muscle"
+  },
+  "voodoo": {
+    "make": "Declasse",
+    "model": "Voodoo Custom",
+    "class": "Muscle"
+  },
+  "faction": {
+    "make": "Willard",
+    "model": "Faction",
+    "class": "Muscle"
+  },
+  "faction2": {
+    "make": "Willard",
+    "model": "Faction Custom",
+    "class": "Muscle"
+  },
+  "moonbeam": {
+    "make": "Declasse",
+    "model": "Moonbeam",
+    "class": "Muscle"
+  },
+  "moonbeam2": {
+    "make": "Declasse",
+    "model": "Moonbeam Custom",
+    "class": "Muscle"
+  },
+  "primo2": {
+    "make": "Albany",
+    "model": "Primo Custom",
+    "class": "Sedans"
+  },
+  "chino2": {
+    "make": "Vapid",
+    "model": "Chino Custom",
+    "class": "Muscle"
+  },
+  "faction3": {
+    "make": "Willard",
+    "model": "Faction Custom Donk",
+    "class": "Muscle"
+  },
+  "minivan2": {
+    "make": "Vapid",
+    "model": "Minivan Custom",
+    "class": "Vans"
+  },
+  "sabregt2": {
+    "make": "Declasse",
+    "model": "Sabre Turbo Custom",
+    "class": "Muscle"
+  },
+  "slamvan3": {
+    "make": "Vapid",
+    "model": "Slamvan Custom",
+    "class": "Muscle"
+  },
+  "tornado5": {
+    "make": "Declasse",
+    "model": "Tornado Custom",
+    "class": "Sports Classics"
+  },
+  "virgo2": {
+    "make": "Dundreary",
+    "model": "Virgo Classic Custom",
+    "class": "Muscle"
+  },
+  "virgo3": {
+    "make": "Dundreary",
+    "model": "Virgo Classic",
+    "class": "Muscle"
+  },
+  "swift2": {
+    "make": "Buckingham",
+    "model": "Swift Deluxe",
+    "class": "Helicopters"
+  },
+  "luxor2": {
+    "make": "Buckingham",
+    "model": "Luxor Deluxe",
+    "class": "Planes"
+  },
+  "feltzer3": {
+    "make": "Benefactor",
+    "model": "Stirling GT",
+    "class": "Sports Classics"
+  },
+  "osiris": {
+    "make": "Pegassi",
+    "model": "Osiris",
+    "class": "Super"
+  },
+  "virgo": {
+    "make": "Albany",
+    "model": "Virgo",
+    "class": "Muscle"
+  },
+  "windsor": {
+    "make": "Enus",
+    "model": "Windsor",
+    "class": "Coupes"
+  },
+  "coquette3": {
+    "make": "Invetero",
+    "model": "Coquette BlackFin",
+    "class": "Muscle"
+  },
+  "vindicator": {
+    "make": "Dinka",
+    "model": "Vindicator",
+    "class": "Motorcycles"
+  },
+  "t20": {
+    "make": "Progen",
+    "model": "T20",
+    "class": "Super"
+  },
+  "brawler": {
+    "make": "Coil",
+    "model": "Brawler",
+    "class": "Off-road"
+  },
+  "toro": {
+    "make": "Lampadati",
+    "model": "Toro",
+    "class": "Boats"
+  },
+  "chino": {
+    "make": "Vapid",
+    "model": "Chino",
+    "class": "Muscle"
+  },
+  "shinobi": {
+    "make": "Nagasaki",
+    "model": "Shinobi",
+    "class": "Motorcycles"
+  },
+  "reever": {
+    "make": "Western",
+    "model": "Reever",
+    "class": "Motorcycles"
+  },
+  "champion": {
+    "make": "Dewbauchee",
+    "model": "Champion",
+    "class": "Super"
+  },
+  "cinquemila": {
+    "make": "Lampadati",
+    "model": "Cinquemila",
+    "class": "Sedans"
+  },
+  "iwagen": {
+    "make": "Obey",
+    "model": "I-Wagen",
+    "class": "SUVs"
+  },
+  "comet7": {
+    "make": "Pfister",
+    "model": "Comet S2 Cabrio",
+    "class": "Sports"
+  },
+  "astron": {
+    "make": "Pfister",
+    "model": "Astron",
+    "class": "SUVs"
+  },
+  "baller7": {
+    "make": "Gallivanter",
+    "model": "Baller ST",
+    "class": "SUVs"
+  },
+  "buffalo4": {
+    "make": "Bravado",
+    "model": "Buffalo STX",
+    "class": "Muscle"
+  },
+  "deity": {
+    "make": "Enus",
+    "model": "Deity",
+    "class": "Sedans"
+  },
+  "jubilee": {
+    "make": "Enus",
+    "model": "Jubilee",
+    "class": "SUVs"
+  },
+  "granger2": {
+    "make": "Declasse",
+    "model": "Granger 3600LX",
+    "class": "SUVs"
+  },
+  "ignus": {
+    "make": "Pegassi",
+    "model": "Ignus",
+    "class": "Super"
+  },
+  "patriot3": {
+    "make": "Mammoth",
+    "model": "Patriot Mil-Spec",
+    "class": "Off-road"
+  },
+  "youga4": {
+    "make": "Vapid",
+    "model": "Youga Custom",
+    "class": "Vans"
+  },
+  "zeno": {
+    "make": "Overflod",
+    "model": "Zeno",
+    "class": "Super"
+  },
+  "mule5": {
+    "make": "Maibatsu",
+    "model": "Mule",
+    "class": "Commercial"
+  },
+  "vigilante": {
+    "make": "NULL",
+    "model": "Vigilante",
+    "class": "Super"
+  },
+  "bombushka": {
+    "make": "NULL",
+    "model": "RM-10 Bombushka",
+    "class": "Planes"
+  },
+  "howard": {
+    "make": "Buckingham",
+    "model": "Howard NX-25",
+    "class": "Planes"
+  },
+  "alphaz1": {
+    "make": "Buckingham",
+    "model": "Alpha-Z1",
+    "class": "Planes"
+  },
+  "seabreeze": {
+    "make": "Western",
+    "model": "Seabreeze",
+    "class": "Planes"
+  },
+  "nokota": {
+    "make": "NULL",
+    "model": "P-45 Nokota",
+    "class": "Planes"
+  },
+  "molotok": {
+    "make": "NULL",
+    "model": "V-65 Molotok",
+    "class": "Planes"
+  },
+  "starling": {
+    "make": "NULL",
+    "model": "LF-22 Starling",
+    "class": "Planes"
+  },
+  "havok": {
+    "make": "Nagasaki",
+    "model": "Havok",
+    "class": "Helicopters"
+  },
+  "tula": {
+    "make": "Mammoth",
+    "model": "Tula",
+    "class": "Planes"
+  },
+  "microlight": {
+    "make": "Nagasaki",
+    "model": "Ultralight",
+    "class": "Planes"
+  },
+  "hunter": {
+    "make": "NULL",
+    "model": "FH-1 Hunter",
+    "class": "Helicopters"
+  },
+  "rogue": {
+    "make": "Western",
+    "model": "Rogue",
+    "class": "Planes"
+  },
+  "pyro": {
+    "make": "Buckingham",
+    "model": "Pyro",
+    "class": "Planes"
+  },
+  "rapidgt3": {
+    "make": "Dewbauchee",
+    "model": "Rapid GT Classic",
+    "class": "Sports Classics"
+  },
+  "mogul": {
+    "make": "Mammoth",
+    "model": "Mogul",
+    "class": "Planes"
+  },
+  "retinue": {
+    "make": "Vapid",
+    "model": "Retinue",
+    "class": "Sports Classics"
+  },
+  "cyclone": {
+    "make": "Coil",
+    "model": "Cyclone",
+    "class": "Super"
+  },
+  "visione": {
+    "make": "Grotti",
+    "model": "Visione",
+    "class": "Super"
+  },
+  "turismo2": {
+    "make": "Grotti",
+    "model": "Turismo Classic",
+    "class": "Sports Classics"
+  },
+  "infernus2": {
+    "make": "Pegassi",
+    "model": "Infernus Classic",
+    "class": "Sports Classics"
+  },
+  "gp1": {
+    "make": "Progen",
+    "model": "GP1",
+    "class": "Super"
+  },
+  "ruston": {
+    "make": "Hijak",
+    "model": "Ruston",
+    "class": "Sports"
+  },
+  "gargoyle": {
+    "make": "Western",
+    "model": "Gargoyle",
+    "class": "Motorcycles"
+  },
+  "omnis": {
+    "make": "Obey",
+    "model": "Omnis",
+    "class": "Sports"
+  },
+  "sheava": {
+    "make": "Emperor",
+    "model": "ETR1",
+    "class": "Super"
+  },
+  "tyrus": {
+    "make": "Progen",
+    "model": "Tyrus",
+    "class": "Super"
+  },
+  "le7b": {
+    "make": "Annis",
+    "model": "RE-7B",
+    "class": "Super"
+  },
+  "lynx": {
+    "make": "Ocelot",
+    "model": "Lynx",
+    "class": "Sports"
+  },
+  "tropos": {
+    "make": "Lampadati",
+    "model": "Tropos Rallye",
+    "class": "Sports"
+  },
+  "tampa2": {
+    "make": "Declasse",
+    "model": "Drift Tampa",
+    "class": "Sports"
+  },
+  "brioso": {
+    "make": "Grotti",
+    "model": "Brioso R/A",
+    "class": "Compacts"
+  },
+  "bf400": {
+    "make": "Nagasaki",
+    "model": "BF400",
+    "class": "Motorcycles"
+  },
+  "cliffhanger": {
+    "make": "Western",
+    "model": "Cliffhanger",
+    "class": "Motorcycles"
+  },
+  "contender": {
+    "make": "Vapid",
+    "model": "Contender",
+    "class": "SUVs"
+  },
+  "trophytruck": {
+    "make": "Vapid",
+    "model": "Trophy Truck",
+    "class": "Off-road"
+  },
+  "trophytruck2": {
+    "make": "Vapid",
+    "model": "Desert Raid",
+    "class": "Off-road"
+  },
+  "rallytruck": {
+    "make": "MTL",
+    "model": "Dune",
+    "class": "Service"
+  },
+  "openwheel1": {
+    "make": "Benefactor",
+    "model": "BR8",
+    "class": "Openwheel"
+  },
+  "coquette4": {
+    "make": "Invetero",
+    "model": "Coquette D10",
+    "class": "Sports"
+  },
+  "tigon": {
+    "make": "Lampadati",
+    "model": "Tigon",
+    "class": "Super"
+  },
+  "landstalker2": {
+    "make": "Dundreary",
+    "model": "Landstalker XL",
+    "class": "SUVs"
+  },
+  "penumbra2": {
+    "make": "Maibatsu",
+    "model": "Penumbra FF",
+    "class": "Sports"
+  },
+  "yosemite3": {
+    "make": "Declasse",
+    "model": "Yosemite Rancher",
+    "class": "Off-road"
+  },
+  "club": {
+    "make": "BF",
+    "model": "Club",
+    "class": "Compacts"
+  },
+  "seminole2": {
+    "make": "Canis",
+    "model": "Seminole Frontier",
+    "class": "SUVs"
+  },
+  "openwheel2": {
+    "make": "Declasse",
+    "model": "DR1",
+    "class": "Openwheel"
+  },
+  "gauntlet5": {
+    "make": "Bravado",
+    "model": "Gauntlet Classic Custom",
+    "class": "Muscle"
+  },
+  "dukes3": {
+    "make": "Imponte",
+    "model": "Beater Dukes",
+    "class": "Muscle"
+  },
+  "youga3": {
+    "make": "Bravado",
+    "model": "Youga Classic 4x4",
+    "class": "Vans"
+  },
+  "glendale2": {
+    "make": "Benefactor",
+    "model": "Glendale Custom",
+    "class": "Sedans"
+  },
+  "peyote3": {
+    "make": "Vapid",
+    "model": "Peyote Custom",
+    "class": "Sports Classics"
+  },
+  "manana2": {
+    "make": "Albany",
+    "model": "Manana Custom",
+    "class": "Muscle"
+  },
+  "freightcar2": {
+    "make": "NULL",
+    "model": "Freight Train",
+    "class": "Trains"
+  },
+  "euros": {
+    "make": "Annis",
+    "model": "Euros",
+    "class": "Sports"
+  },
+  "dominator8": {
+    "make": "Vapid",
+    "model": "Dominator GTT",
+    "class": "Muscle"
+  },
+  "sultan3": {
+    "make": "Karin",
+    "model": "Sultan RS Classic",
+    "class": "Sports"
+  },
+  "tailgater2": {
+    "make": "Obey",
+    "model": "Tailgater S",
+    "class": "Sedans"
+  },
+  "futo2": {
+    "make": "Karin",
+    "model": "Futo GTX",
+    "class": "Sports"
+  },
+  "rt3000": {
+    "make": "Dinka",
+    "model": "RT3000",
+    "class": "Sports"
+  },
+  "dominator7": {
+    "make": "Vapid",
+    "model": "Dominator ASP",
+    "class": "Muscle"
+  },
+  "comet6": {
+    "make": "Pfister",
+    "model": "Comet S2",
+    "class": "Sports"
+  },
+  "growler": {
+    "make": "Pfister",
+    "model": "Growler",
+    "class": "Sports"
+  },
+  "calico": {
+    "make": "Karin",
+    "model": "Calico GTF",
+    "class": "Sports"
+  },
+  "remus": {
+    "make": "Annis",
+    "model": "Remus",
+    "class": "Sports"
+  },
+  "zr350": {
+    "make": "Annis",
+    "model": "ZR350",
+    "class": "Sports"
+  },
+  "previon": {
+    "make": "Karin",
+    "model": "Previon",
+    "class": "Coupes"
+  },
+  "warrener2": {
+    "make": "Vulcar",
+    "model": "Warrener HKR",
+    "class": "Sedans"
+  },
+  "cypher": {
+    "make": "Ubermacht",
+    "model": "Cypher",
+    "class": "Sports"
+  },
+  "jester4": {
+    "make": "Dinka",
+    "model": "Jester RR",
+    "class": "Sports"
+  },
+  "vectre": {
+    "make": "Emperor",
+    "model": "Vectre",
+    "class": "Sports"
+  },
+  "btype3": {
+    "make": "Albany",
+    "model": "Roosevelt Valor",
+    "class": "Sports Classics"
+  },
+  "paragon": {
+    "make": "Enus",
+    "model": "Paragon R",
+    "class": "Sports"
+  },
+  "paragon2": {
+    "make": "Enus",
+    "model": "Paragon R (Armored)",
+    "class": "Sports"
+  },
+  "jugular": {
+    "make": "Ocelot",
+    "model": "Jugular",
+    "class": "Sports"
+  },
+  "rrocket": {
+    "make": "Western",
+    "model": "Rampant Rocket",
+    "class": "Motorcycles"
+  },
+  "peyote2": {
+    "make": "Vapid",
+    "model": "Peyote Gasser",
+    "class": "Muscle"
+  },
+  "neo": {
+    "make": "Vysser",
+    "model": "Neo",
+    "class": "Sports"
+  },
+  "krieger": {
+    "make": "Benefactor",
+    "model": "Krieger",
+    "class": "Super"
+  },
+  "s80": {
+    "make": "Annis",
+    "model": "S80RR",
+    "class": "Super"
+  },
+  "dynasty": {
+    "make": "Weeny",
+    "model": "Dynasty",
+    "class": "Sports Classics"
+  },
+  "caracara2": {
+    "make": "Vapid",
+    "model": "Caracara 4x4",
+    "class": "Off-road"
+  },
+  "thrax": {
+    "make": "Truffade",
+    "model": "Thrax",
+    "class": "Super"
+  },
+  "novak": {
+    "make": "Lampadati",
+    "model": "Novak",
+    "class": "SUVs"
+  },
+  "zorrusso": {
+    "make": "Pegassi",
+    "model": "Zorrusso",
+    "class": "Super"
+  },
+  "issi7": {
+    "make": "Weeny",
+    "model": "Issi Sport",
+    "class": "Sports"
+  },
+  "locust": {
+    "make": "Ocelot",
+    "model": "Locust",
+    "class": "Sports"
+  },
+  "emerus": {
+    "make": "Progen",
+    "model": "Emerus",
+    "class": "Super"
+  },
+  "hellion": {
+    "make": "Annis",
+    "model": "Hellion",
+    "class": "Off-road"
+  },
+  "gauntlet3": {
+    "make": "Bravado",
+    "model": "Gauntlet Classic",
+    "class": "Muscle"
+  },
+  "gauntlet4": {
+    "make": "Bravado",
+    "model": "Gauntlet Hellfire",
+    "class": "Muscle"
+  },
+  "nebula": {
+    "make": "Vulcar",
+    "model": "Nebula Turbo",
+    "class": "Sports Classics"
+  },
+  "zion3": {
+    "make": "Ubermacht",
+    "model": "Zion Classic",
+    "class": "Sports Classics"
+  },
+  "drafter": {
+    "make": "Obey",
+    "model": "8F Drafter",
+    "class": "Sports"
+  },
+  "tampa": {
+    "make": "Declasse",
+    "model": "Tampa",
+    "class": "Muscle"
+  },
+  "bifta": {
+    "make": "BF",
+    "model": "Bifta",
+    "class": "Off-road"
+  },
+  "speeder": {
+    "make": "Pegassi",
+    "model": "Speeder",
+    "class": "Boats"
+  },
+  "kalahari": {
+    "make": "Canis",
+    "model": "Kalahari",
+    "class": "Off-road"
+  },
+  "paradise": {
+    "make": "Bravado",
+    "model": "Paradise",
+    "class": "Vans"
+  },
+  "zentorno": {
+    "make": "Pegassi",
+    "model": "Zentorno",
+    "class": "Super"
+  },
+  "massacro": {
+    "make": "Dewbauchee",
+    "model": "Massacro",
+    "class": "Sports"
+  },
+  "huntley": {
+    "make": "Enus",
+    "model": "Huntley S",
+    "class": "SUVs"
+  },
+  "thrust": {
+    "make": "Dinka",
+    "model": "Thrust",
+    "class": "Motorcycles"
+  },
+  "rhapsody": {
+    "make": "Declasse",
+    "model": "Rhapsody",
+    "class": "Compacts"
+  },
+  "warrener": {
+    "make": "Vulcar",
+    "model": "Warrener",
+    "class": "Sedans"
+  },
+  "blade": {
+    "make": "Vapid",
+    "model": "Blade",
+    "class": "Muscle"
+  },
+  "glendale": {
+    "make": "Benefactor",
+    "model": "Glendale",
+    "class": "Sedans"
+  },
+  "panto": {
+    "make": "Benefactor",
+    "model": "Panto",
+    "class": "Compacts"
+  },
+  "dubsta3": {
+    "make": "Benefactor",
+    "model": "Dubsta 6x6",
+    "class": "Off-road"
+  },
+  "pigalle": {
+    "make": "Lampadati",
+    "model": "Pigalle",
+    "class": "Sports Classics"
+  },
+  "monster": {
+    "make": "Vapid",
+    "model": "Liberator",
+    "class": "Off-road"
+  },
+  "sovereign": {
+    "make": "Western",
+    "model": "Sovereign",
+    "class": "Motorcycles"
+  },
+  "innovation": {
+    "make": "LCC",
+    "model": "Innovation",
+    "class": "Motorcycles"
+  },
+  "hakuchou": {
+    "make": "Shitzu",
+    "model": "Hakuchou",
+    "class": "Motorcycles"
+  },
+  "furoregt": {
+    "make": "Lampadati",
+    "model": "Furore GT",
+    "class": "Sports"
+  },
+  "miljet": {
+    "make": "Buckingham",
+    "model": "Miljet",
+    "class": "Planes"
+  },
+  "besra": {
+    "make": "Western",
+    "model": "Besra",
+    "class": "Planes"
+  },
+  "coquette2": {
+    "make": "Invetero",
+    "model": "Coquette Classic",
+    "class": "Sports Classics"
+  },
+  "swift": {
+    "make": "Buckingham",
+    "model": "Swift",
+    "class": "Helicopters"
+  },
+  "btype": {
+    "make": "Albany",
+    "model": "Roosevelt",
+    "class": "Sports Classics"
+  },
+  "submersible2": {
+    "make": "NULL",
+    "model": "Kraken",
+    "class": "Boats"
+  },
+  "marshall": {
+    "make": "Cheval",
+    "model": "Marshall",
+    "class": "Off-road"
+  },
+  "blimp2": {
+    "make": "NULL",
+    "model": "Xero Blimp",
+    "class": "Planes"
+  },
+  "dukes": {
+    "make": "Imponte",
+    "model": "Dukes",
+    "class": "Muscle"
+  },
+  "dukes2": {
+    "make": "Imponte",
+    "model": "Duke O'Death",
+    "class": "Muscle"
+  },
+  "buffalo3": {
+    "make": "Bravado",
+    "model": "Sprunk Buffalo",
+    "class": "Sports"
+  },
+  "dominator2": {
+    "make": "Vapid",
+    "model": "Pisswasser Dominator",
+    "class": "Muscle"
+  },
+  "gauntlet2": {
+    "make": "Bravado",
+    "model": "Redwood Gauntlet",
+    "class": "Muscle"
+  },
+  "stalion": {
+    "make": "Declasse",
+    "model": "Stallion",
+    "class": "Muscle"
+  },
+  "stalion2": {
+    "make": "Declasse",
+    "model": "Burger Shot Stallion",
+    "class": "Muscle"
+  },
+  "blista2": {
+    "make": "Dinka",
+    "model": "Blista Compact",
+    "class": "Sports"
+  },
+  "blista3": {
+    "make": "Dinka",
+    "model": "Go Go Monkey Blista",
+    "class": "Sports"
+  },
+  "dodo": {
+    "make": "Mammoth",
+    "model": "Dodo",
+    "class": "Planes"
+  },
+  "ninef": {
+    "make": "Obey",
+    "model": "9F",
+    "class": "Sports"
+  },
+  "ninef2": {
+    "make": "Obey",
+    "model": "9F Cabrio",
+    "class": "Sports"
+  },
+  "asea": {
+    "make": "Declasse",
+    "model": "Asea",
+    "class": "Sedans"
+  },
+  "boxville2": {
+    "make": "NULL",
+    "model": "Boxville",
+    "class": "Vans"
+  },
+  "bulldozer": {
+    "make": "HVY",
+    "model": "Dozer",
+    "class": "Industrial"
+  },
+  "cheetah": {
+    "make": "Grotti",
+    "model": "Cheetah",
+    "class": "Super"
+  },
+  "cogcabrio": {
+    "make": "Enus",
+    "model": "Cognoscenti Cabrio",
+    "class": "Coupes"
+  },
+  "dubsta": {
+    "make": "Benefactor",
+    "model": "Dubsta",
+    "class": "SUVs"
+  },
+  "dubsta2": {
+    "make": "Benefactor",
+    "model": "Dubsta",
+    "class": "SUVs"
+  },
+  "emperor": {
+    "make": "Albany",
+    "model": "Emperor",
+    "class": "Sedans"
+  },
+  "entityxf": {
+    "make": "Overflod",
+    "model": "Entity XF",
+    "class": "Super"
+  },
+  "firetruk": {
+    "make": "MTL",
+    "model": "Fire Truck",
+    "class": "Emergency"
+  },
+  "fq2": {
+    "make": "Fathom",
+    "model": "FQ 2",
+    "class": "SUVs"
+  },
+  "infernus": {
+    "make": "Pegassi",
+    "model": "Infernus",
+    "class": "Super"
+  },
+  "jackal": {
+    "make": "Ocelot",
+    "model": "Jackal",
+    "class": "Coupes"
+  },
+  "journey": {
+    "make": "Zirconium",
+    "model": "Journey",
+    "class": "Vans"
+  },
+  "jb700": {
+    "make": "Dewbauchee",
+    "model": "JB 700",
+    "class": "Sports Classics"
+  },
+  "oracle": {
+    "make": "Ubermacht",
+    "model": "Oracle XS",
+    "class": "Coupes"
+  },
+  "patriot": {
+    "make": "Mammoth",
+    "model": "Patriot",
+    "class": "SUVs"
+  },
+  "radi": {
+    "make": "Vapid",
+    "model": "Radius",
+    "class": "SUVs"
+  },
+  "romero": {
+    "make": "Chariot",
+    "model": "Romero Hearse",
+    "class": "Sedans"
+  },
+  "stinger": {
+    "make": "Grotti",
+    "model": "Stinger",
+    "class": "Sports Classics"
+  },
+  "stockade": {
+    "make": "Brute",
+    "model": "Stockade",
+    "class": "Commercial"
+  },
+  "superd": {
+    "make": "Enus",
+    "model": "Super Diamond",
+    "class": "Sedans"
+  },
+  "tailgater": {
+    "make": "Obey",
+    "model": "Tailgater",
+    "class": "Sedans"
+  },
+  "tornado": {
+    "make": "Declasse",
+    "model": "Tornado",
+    "class": "Sports Classics"
+  },
+  "utillitruck": {
+    "make": "NULL",
+    "model": "Utility Truck",
+    "class": "Utility"
+  },
+  "utillitruck2": {
+    "make": "NULL",
+    "model": "Utility Truck",
+    "class": "Utility"
+  },
+  "voodoo2": {
+    "make": "Declasse",
+    "model": "Voodoo",
+    "class": "Muscle"
+  },
+  "scorcher": {
+    "make": "NULL",
+    "model": "Scorcher",
+    "class": "Cycles"
+  },
+  "policeb": {
+    "make": "NULL",
+    "model": "Police Bike",
+    "class": "Emergency"
+  },
+  "hexer": {
+    "make": "LCC",
+    "model": "Hexer",
+    "class": "Motorcycles"
+  },
+  "buzzard": {
+    "make": "NULL",
+    "model": "Buzzard Attack Chopper",
+    "class": "Helicopters"
+  },
+  "polmav": {
+    "make": "NULL",
+    "model": "Police Maverick",
+    "class": "Helicopters"
+  },
+  "cuban800": {
+    "make": "NULL",
+    "model": "Cuban 800",
+    "class": "Planes"
+  },
+  "jet": {
+    "make": "NULL",
+    "model": "Jet",
+    "class": "Planes"
+  },
+  "titan": {
+    "make": "NULL",
+    "model": "Titan",
+    "class": "Planes"
+  },
+  "squalo": {
+    "make": "Shitzu",
+    "model": "Squalo",
+    "class": "Boats"
+  },
+  "marquis": {
+    "make": "Dinka",
+    "model": "Marquis",
+    "class": "Boats"
+  },
+  "freightcar": {
+    "make": "NULL",
+    "model": "Freight Train",
+    "class": "Trains"
+  },
+  "freight": {
+    "make": "NULL",
+    "model": "Freight Train",
+    "class": "Trains"
+  },
+  "freightcont1": {
+    "make": "NULL",
+    "model": "Freight Train",
+    "class": "Trains"
+  },
+  "freightcont2": {
+    "make": "NULL",
+    "model": "Freight Train",
+    "class": "Trains"
+  },
+  "freightgrain": {
+    "make": "NULL",
+    "model": "Freight Train",
+    "class": "Trains"
+  },
+  "tankercar": {
+    "make": "NULL",
+    "model": "Freight Train",
+    "class": "Trains"
+  },
+  "metrotrain": {
+    "make": "NULL",
+    "model": "Freight Train",
+    "class": "Trains"
+  },
+  "trailers": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "tanker": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "trailerlogs": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "tr2": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "tr3": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "picador": {
+    "make": "Cheval",
+    "model": "Picador",
+    "class": "Muscle"
+  },
+  "policeold1": {
+    "make": "NULL",
+    "model": "Police Rancher",
+    "class": "Emergency"
+  },
+  "policeold2": {
+    "make": "NULL",
+    "model": "Police Roadcruiser",
+    "class": "Emergency"
+  },
+  "asterope": {
+    "make": "Karin",
+    "model": "Asterope",
+    "class": "Sedans"
+  },
+  "banshee": {
+    "make": "Bravado",
+    "model": "Banshee",
+    "class": "Sports"
+  },
+  "buffalo": {
+    "make": "Bravado",
+    "model": "Buffalo",
+    "class": "Sports"
+  },
+  "bullet": {
+    "make": "Vapid",
+    "model": "Bullet",
+    "class": "Super"
+  },
+  "f620": {
+    "make": "Ocelot",
+    "model": "F620",
+    "class": "Coupes"
+  },
+  "handler": {
+    "make": "NULL",
+    "model": "Dock Handler",
+    "class": "Industrial"
+  },
+  "ruiner": {
+    "make": "Imponte",
+    "model": "Ruiner",
+    "class": "Muscle"
+  },
+  "gburrito": {
+    "make": "Declasse",
+    "model": "Gang Burrito",
+    "class": "Vans"
+  },
+  "tractor2": {
+    "make": "Stanley",
+    "model": "Fieldmaster",
+    "class": "Utility"
+  },
+  "penumbra": {
+    "make": "Maibatsu",
+    "model": "Penumbra",
+    "class": "Sports"
+  },
+  "submersible": {
+    "make": "NULL",
+    "model": "Submersible",
+    "class": "Boats"
+  },
+  "docktug": {
+    "make": "NULL",
+    "model": "Docktug",
+    "class": "Utility"
+  },
+  "docktrailer": {
+    "make": "NULL",
+    "model": "NULL",
+    "class": "Utility"
+  },
+  "sultan": {
+    "make": "Karin",
+    "model": "Sultan",
+    "class": "Sports"
+  },
+  "dilettante": {
+    "make": "Karin",
+    "model": "Dilettante",
+    "class": "Compacts"
+  },
+  "futo": {
+    "make": "Karin",
+    "model": "Futo",
+    "class": "Sports"
+  },
+  "habanero": {
+    "make": "Emperor",
+    "model": "Habanero",
+    "class": "SUVs"
+  },
+  "intruder": {
+    "make": "Karin",
+    "model": "Intruder",
+    "class": "Sedans"
+  },
+  "landstalker": {
+    "make": "Dundreary",
+    "model": "Landstalker",
+    "class": "SUVs"
+  },
+  "minivan": {
+    "make": "Vapid",
+    "model": "Minivan",
+    "class": "Vans"
+  },
+  "schafter2": {
+    "make": "Benefactor",
+    "model": "Schafter",
+    "class": "Sedans"
+  },
+  "serrano": {
+    "make": "Benefactor",
+    "model": "Serrano",
+    "class": "SUVs"
+  },
+  "manana": {
+    "make": "Albany",
+    "model": "Manana",
+    "class": "Sports Classics"
+  },
+  "seashark2": {
+    "make": "Speedophile",
+    "model": "Seashark",
+    "class": "Boats"
+  },
+  "youga": {
+    "make": "Bravado",
+    "model": "Youga",
+    "class": "Vans"
+  },
+  "premier": {
+    "make": "Declasse",
+    "model": "Premier",
+    "class": "Sedans"
+  },
+  "speedo": {
+    "make": "Vapid",
+    "model": "Speedo",
+    "class": "Vans"
+  },
+  "washington": {
+    "make": "Albany",
+    "model": "Washington",
+    "class": "Sedans"
+  },
+  "annihilator": {
+    "make": "NULL",
+    "model": "Annihilator",
+    "class": "Helicopters"
+  },
+  "blazer2": {
+    "make": "Nagasaki",
+    "model": "Blazer Lifeguard",
+    "class": "Off-road"
+  },
+  "cruiser": {
+    "make": "NULL",
+    "model": "Cruiser",
+    "class": "Cycles"
+  },
+  "raketrailer": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "cargoplane": {
+    "make": "NULL",
+    "model": "Cargo Plane",
+    "class": "Planes"
+  },
+  "dump": {
+    "make": "HVY",
+    "model": "Dump",
+    "class": "Industrial"
+  },
+  "pony": {
+    "make": "Brute",
+    "model": "Pony",
+    "class": "Vans"
+  },
+  "lguard": {
+    "make": "Declasse",
+    "model": "Lifeguard",
+    "class": "Emergency"
+  },
+  "sentinel": {
+    "make": "Ubermacht",
+    "model": "Sentinel XS",
+    "class": "Coupes"
+  },
+  "sentinel2": {
+    "make": "Ubermacht",
+    "model": "Sentinel",
+    "class": "Coupes"
+  },
+  "comet2": {
+    "make": "Pfister",
+    "model": "Comet",
+    "class": "Sports"
+  },
+  "stingergt": {
+    "make": "Grotti",
+    "model": "Stinger GT",
+    "class": "Sports Classics"
+  },
+  "ingot": {
+    "make": "Vulcar",
+    "model": "Ingot",
+    "class": "Sedans"
+  },
+  "peyote": {
+    "make": "Vapid",
+    "model": "Peyote",
+    "class": "Sports Classics"
+  },
+  "stanier": {
+    "make": "Vapid",
+    "model": "Stanier",
+    "class": "Sedans"
+  },
+  "stratum": {
+    "make": "Zirconium",
+    "model": "Stratum",
+    "class": "Sedans"
+  },
+  "akuma": {
+    "make": "Dinka",
+    "model": "Akuma",
+    "class": "Motorcycles"
+  },
+  "bati": {
+    "make": "Pegassi",
+    "model": "Bati 801",
+    "class": "Motorcycles"
+  },
+  "bati2": {
+    "make": "Pegassi",
+    "model": "Bati 801RR",
+    "class": "Motorcycles"
+  },
+  "pcj": {
+    "make": "Shitzu",
+    "model": "PCJ 600",
+    "class": "Motorcycles"
+  },
+  "dloader": {
+    "make": "Bravado",
+    "model": "Duneloader",
+    "class": "Off-road"
+  },
+  "prairie": {
+    "make": "Bollokan",
+    "model": "Prairie",
+    "class": "Compacts"
+  },
+  "duster": {
+    "make": "NULL",
+    "model": "Duster",
+    "class": "Planes"
+  },
+  "issi2": {
+    "make": "Weeny",
+    "model": "Issi",
+    "class": "Compacts"
+  },
+  "trailers2": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "tvtrailer": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "cutter": {
+    "make": "HVY",
+    "model": "Cutter",
+    "class": "Industrial"
+  },
+  "trflat": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "tornado2": {
+    "make": "Declasse",
+    "model": "Tornado",
+    "class": "Sports Classics"
+  },
+  "tornado3": {
+    "make": "Declasse",
+    "model": "Tornado",
+    "class": "Sports Classics"
+  },
+  "tribike": {
+    "make": "NULL",
+    "model": "Whippet Race Bike",
+    "class": "Cycles"
+  },
+  "tribike2": {
+    "make": "NULL",
+    "model": "Endurex Race Bike",
+    "class": "Cycles"
+  },
+  "tribike3": {
+    "make": "NULL",
+    "model": "Tri-Cycles Race Bike",
+    "class": "Cycles"
+  },
+  "proptrailer": {
+    "make": "NULL",
+    "model": "NULL",
+    "class": "Utility"
+  },
+  "burrito2": {
+    "make": "Declasse",
+    "model": "Bugstars Burrito",
+    "class": "Vans"
+  },
+  "dune": {
+    "make": "BF",
+    "model": "Dune Buggy",
+    "class": "Off-road"
+  },
+  "feltzer2": {
+    "make": "Benefactor",
+    "model": "Feltzer",
+    "class": "Sports"
+  },
+  "blista": {
+    "make": "Dinka",
+    "model": "Blista",
+    "class": "Compacts"
+  },
+  "bagger": {
+    "make": "Western",
+    "model": "Bagger",
+    "class": "Motorcycles"
+  },
+  "voltic": {
+    "make": "Coil",
+    "model": "Voltic",
+    "class": "Super"
+  },
+  "fugitive": {
+    "make": "Cheval",
+    "model": "Fugitive",
+    "class": "Sedans"
+  },
+  "felon": {
+    "make": "Lampadati",
+    "model": "Felon",
+    "class": "Coupes"
+  },
+  "pbus": {
+    "make": "NULL",
+    "model": "Prison Bus",
+    "class": "Emergency"
+  },
+  "armytrailer": {
+    "make": "NULL",
+    "model": "Army Trailer",
+    "class": "Utility"
+  },
+  "policet": {
+    "make": "NULL",
+    "model": "Police Transporter",
+    "class": "Emergency"
+  },
+  "speedo2": {
+    "make": "Vapid",
+    "model": "Clown Van",
+    "class": "Vans"
+  },
+  "felon2": {
+    "make": "Lampadati",
+    "model": "Felon GT",
+    "class": "Coupes"
+  },
+  "bmx": {
+    "make": "NULL",
+    "model": "BMX",
+    "class": "Cycles"
+  },
+  "exemplar": {
+    "make": "Dewbauchee",
+    "model": "Exemplar",
+    "class": "Coupes"
+  },
+  "fusilade": {
+    "make": "Schyster",
+    "model": "Fusilade",
+    "class": "Sports"
+  },
+  "boattrailer": {
+    "make": "NULL",
+    "model": "Boat Trailer",
+    "class": "Utility"
+  },
+  "cavalcade": {
+    "make": "Albany",
+    "model": "Cavalcade",
+    "class": "SUVs"
+  },
+  "surge": {
+    "make": "Cheval",
+    "model": "Surge",
+    "class": "Sedans"
+  },
+  "buccaneer": {
+    "make": "Albany",
+    "model": "Buccaneer",
+    "class": "Muscle"
+  },
+  "nemesis": {
+    "make": "Principe",
+    "model": "Nemesis",
+    "class": "Motorcycles"
+  },
+  "armytanker": {
+    "make": "NULL",
+    "model": "Army Trailer",
+    "class": "Utility"
+  },
+  "rocoto": {
+    "make": "Obey",
+    "model": "Rocoto",
+    "class": "SUVs"
+  },
+  "stockade3": {
+    "make": "Brute",
+    "model": "Stockade",
+    "class": "Commercial"
+  },
+  "rebel2": {
+    "make": "Karin",
+    "model": "Rebel",
+    "class": "Off-road"
+  },
+  "schwarzer": {
+    "make": "Benefactor",
+    "model": "Schwartzer",
+    "class": "Sports"
+  },
+  "scrap": {
+    "make": "NULL",
+    "model": "Scrap Truck",
+    "class": "Utility"
+  },
+  "sandking": {
+    "make": "Vapid",
+    "model": "Sandking XL",
+    "class": "Off-road"
+  },
+  "sandking2": {
+    "make": "Vapid",
+    "model": "Sandking SWB",
+    "class": "Off-road"
+  },
+  "carbonizzare": {
+    "make": "Grotti",
+    "model": "Carbonizzare",
+    "class": "Sports"
+  },
+  "rumpo": {
+    "make": "Bravado",
+    "model": "Rumpo",
+    "class": "Vans"
+  },
+  "primo": {
+    "make": "Albany",
+    "model": "Primo",
+    "class": "Sedans"
+  },
+  "sabregt": {
+    "make": "Declasse",
+    "model": "Sabre Turbo",
+    "class": "Muscle"
+  },
+  "regina": {
+    "make": "Dundreary",
+    "model": "Regina",
+    "class": "Sedans"
+  },
+  "jetmax": {
+    "make": "Shitzu",
+    "model": "Jetmax",
+    "class": "Boats"
+  },
+  "tropic": {
+    "make": "Shitzu",
+    "model": "Tropic",
+    "class": "Boats"
+  },
+  "vigero": {
+    "make": "Declasse",
+    "model": "Vigero",
+    "class": "Muscle"
+  },
+  "police2": {
+    "make": "NULL",
+    "model": "Police Cruiser",
+    "class": "Emergency"
+  },
+  "stretch": {
+    "make": "Dundreary",
+    "model": "Stretch",
+    "class": "Sedans"
+  },
+  "dinghy2": {
+    "make": "Nagasaki",
+    "model": "Dinghy",
+    "class": "Boats"
+  },
+  "boxville": {
+    "make": "Brute",
+    "model": "Boxville",
+    "class": "Vans"
+  },
+  "luxor": {
+    "make": "Buckingham",
+    "model": "Luxor",
+    "class": "Planes"
+  },
+  "police3": {
+    "make": "NULL",
+    "model": "Police Cruiser",
+    "class": "Emergency"
+  },
+  "trailers3": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "double": {
+    "make": "Dinka",
+    "model": "Double-T",
+    "class": "Motorcycles"
+  },
+  "tractor": {
+    "make": "NULL",
+    "model": "Tractor",
+    "class": "Utility"
+  },
+  "biff": {
+    "make": "HVY",
+    "model": "Biff",
+    "class": "Commercial"
+  },
+  "dominator": {
+    "make": "Vapid",
+    "model": "Dominator",
+    "class": "Muscle"
+  },
+  "hauler": {
+    "make": "JoBuilt",
+    "model": "Hauler",
+    "class": "Commercial"
+  },
+  "packer": {
+    "make": "MTL",
+    "model": "Packer",
+    "class": "Commercial"
+  },
+  "phoenix": {
+    "make": "Imponte",
+    "model": "Phoenix",
+    "class": "Muscle"
+  },
+  "sadler": {
+    "make": "Vapid",
+    "model": "Sadler",
+    "class": "Utility"
+  },
+  "sadler2": {
+    "make": "Vapid",
+    "model": "Sadler",
+    "class": "Utility"
+  },
+  "daemon": {
+    "make": "Western",
+    "model": "Daemon",
+    "class": "Motorcycles"
+  },
+  "coach": {
+    "make": "NULL",
+    "model": "Dashound",
+    "class": "Service"
+  },
+  "tornado4": {
+    "make": "Declasse",
+    "model": "Tornado",
+    "class": "Sports Classics"
+  },
+  "ratloader": {
+    "make": "NULL",
+    "model": "Rat-Loader",
+    "class": "Muscle"
+  },
+  "rapidgt": {
+    "make": "Dewbauchee",
+    "model": "Rapid GT",
+    "class": "Sports"
+  },
+  "rapidgt2": {
+    "make": "Dewbauchee",
+    "model": "Rapid GT",
+    "class": "Sports"
+  },
+  "surano": {
+    "make": "Benefactor",
+    "model": "Surano",
+    "class": "Sports"
+  },
+  "bfinjection": {
+    "make": "BF",
+    "model": "Injection",
+    "class": "Off-road"
+  },
+  "bison2": {
+    "make": "Bravado",
+    "model": "Bison",
+    "class": "Vans"
+  },
+  "bison3": {
+    "make": "Bravado",
+    "model": "Bison",
+    "class": "Vans"
+  },
+  "bodhi2": {
+    "make": "Canis",
+    "model": "Bodhi",
+    "class": "Off-road"
+  },
+  "burrito": {
+    "make": "Declasse",
+    "model": "Burrito",
+    "class": "Vans"
+  },
+  "burrito4": {
+    "make": "Declasse",
+    "model": "Burrito",
+    "class": "Vans"
+  },
+  "rubble": {
+    "make": "JoBuilt",
+    "model": "Rubble",
+    "class": "Industrial"
+  },
+  "tiptruck": {
+    "make": "Brute",
+    "model": "Tipper",
+    "class": "Industrial"
+  },
+  "tiptruck2": {
+    "make": "NULL",
+    "model": "Tipper",
+    "class": "Industrial"
+  },
+  "mixer": {
+    "make": "HVY",
+    "model": "Mixer",
+    "class": "Industrial"
+  },
+  "mixer2": {
+    "make": "HVY",
+    "model": "Mixer",
+    "class": "Industrial"
+  },
+  "phantom": {
+    "make": "JoBuilt",
+    "model": "Phantom",
+    "class": "Commercial"
+  },
+  "pounder": {
+    "make": "MTL",
+    "model": "Pounder",
+    "class": "Commercial"
+  },
+  "buzzard2": {
+    "make": "NULL",
+    "model": "Buzzard",
+    "class": "Helicopters"
+  },
+  "frogger": {
+    "make": "NULL",
+    "model": "Frogger",
+    "class": "Helicopters"
+  },
+  "airtug": {
+    "make": "NULL",
+    "model": "Airtug",
+    "class": "Utility"
+  },
+  "benson": {
+    "make": "Vapid",
+    "model": "Benson",
+    "class": "Commercial"
+  },
+  "ripley": {
+    "make": "NULL",
+    "model": "Ripley",
+    "class": "Utility"
+  },
+  "ambulance": {
+    "make": "NULL",
+    "model": "Ambulance",
+    "class": "Emergency"
+  },
+  "forklift": {
+    "make": "HVY",
+    "model": "Forklift",
+    "class": "Utility"
+  },
+  "granger": {
+    "make": "Declasse",
+    "model": "Granger",
+    "class": "SUVs"
+  },
+  "pranger": {
+    "make": "NULL",
+    "model": "Park Ranger",
+    "class": "Emergency"
+  },
+  "trailersmall": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "barracks": {
+    "make": "NULL",
+    "model": "Barracks",
+    "class": "Military"
+  },
+  "barracks2": {
+    "make": "HVY",
+    "model": "Barracks Semi",
+    "class": "Military"
+  },
+  "crusader": {
+    "make": "Canis",
+    "model": "Crusader",
+    "class": "Military"
+  },
+  "utillitruck3": {
+    "make": "NULL",
+    "model": "Utility Truck",
+    "class": "Utility"
+  },
+  "sheriff": {
+    "make": "NULL",
+    "model": "Sheriff Cruiser",
+    "class": "Emergency"
+  },
+  "monroe": {
+    "make": "Pegassi",
+    "model": "Monroe",
+    "class": "Sports Classics"
+  },
+  "mule": {
+    "make": "Maibatsu",
+    "model": "Mule",
+    "class": "Commercial"
+  },
+  "taco": {
+    "make": "NULL",
+    "model": "Taco Van",
+    "class": "Vans"
+  },
+  "trash": {
+    "make": "NULL",
+    "model": "Trashmaster",
+    "class": "Service"
+  },
+  "dinghy": {
+    "make": "Nagasaki",
+    "model": "Dinghy",
+    "class": "Boats"
+  },
+  "blazer": {
+    "make": "Nagasaki",
+    "model": "Blazer",
+    "class": "Off-road"
+  },
+  "maverick": {
+    "make": "NULL",
+    "model": "Maverick",
+    "class": "Helicopters"
+  },
+  "cargobob": {
+    "make": "NULL",
+    "model": "Cargobob",
+    "class": "Helicopters"
+  },
+  "cargobob3": {
+    "make": "NULL",
+    "model": "Cargobob",
+    "class": "Helicopters"
+  },
+  "stunt": {
+    "make": "NULL",
+    "model": "Mallard",
+    "class": "Planes"
+  },
+  "emperor3": {
+    "make": "Albany",
+    "model": "Emperor",
+    "class": "Sedans"
+  },
+  "caddy": {
+    "make": "NULL",
+    "model": "Caddy",
+    "class": "Utility"
+  },
+  "emperor2": {
+    "make": "Albany",
+    "model": "Emperor",
+    "class": "Sedans"
+  },
+  "surfer2": {
+    "make": "BF",
+    "model": "Surfer",
+    "class": "Vans"
+  },
+  "towtruck": {
+    "make": "NULL",
+    "model": "Towtruck",
+    "class": "Utility"
+  },
+  "towtruck2": {
+    "make": "NULL",
+    "model": "Towtruck",
+    "class": "Utility"
+  },
+  "baller": {
+    "make": "Gallivanter",
+    "model": "Baller",
+    "class": "SUVs"
+  },
+  "surfer": {
+    "make": "BF",
+    "model": "Surfer",
+    "class": "Vans"
+  },
+  "mammatus": {
+    "make": "NULL",
+    "model": "Mammatus",
+    "class": "Planes"
+  },
+  "riot": {
+    "make": "NULL",
+    "model": "Police Riot",
+    "class": "Emergency"
+  },
+  "velum": {
+    "make": "NULL",
+    "model": "Velum",
+    "class": "Planes"
+  },
+  "rancherxl2": {
+    "make": "Declasse",
+    "model": "Rancher XL",
+    "class": "Off-road"
+  },
+  "caddy2": {
+    "make": "NULL",
+    "model": "Caddy",
+    "class": "Utility"
+  },
+  "airbus": {
+    "make": "NULL",
+    "model": "Airport Bus",
+    "class": "Service"
+  },
+  "rentalbus": {
+    "make": "NULL",
+    "model": "Rental Shuttle Bus",
+    "class": "Service"
+  },
+  "gresley": {
+    "make": "Bravado",
+    "model": "Gresley",
+    "class": "SUVs"
+  },
+  "zion": {
+    "make": "Ubermacht",
+    "model": "Zion",
+    "class": "Coupes"
+  },
+  "zion2": {
+    "make": "Ubermacht",
+    "model": "Zion Cabrio",
+    "class": "Coupes"
+  },
+  "ruffian": {
+    "make": "Pegassi",
+    "model": "Ruffian",
+    "class": "Motorcycles"
+  },
+  "adder": {
+    "make": "Truffade",
+    "model": "Adder",
+    "class": "Super"
+  },
+  "vacca": {
+    "make": "Pegassi",
+    "model": "Vacca",
+    "class": "Super"
+  },
+  "boxville3": {
+    "make": "Brute",
+    "model": "Boxville",
+    "class": "Vans"
+  },
+  "suntrap": {
+    "make": "Shitzu",
+    "model": "Suntrap",
+    "class": "Boats"
+  },
+  "bobcatxl": {
+    "make": "Vapid",
+    "model": "Bobcat XL",
+    "class": "Vans"
+  },
+  "burrito3": {
+    "make": "Declasse",
+    "model": "Burrito",
+    "class": "Vans"
+  },
+  "police4": {
+    "make": "NULL",
+    "model": "Unmarked Cruiser",
+    "class": "Emergency"
+  },
+  "cablecar": {
+    "make": "NULL",
+    "model": "Cable Car",
+    "class": "Trains"
+  },
+  "blimp": {
+    "make": "NULL",
+    "model": "Atomic Blimp",
+    "class": "Planes"
+  },
+  "bus": {
+    "make": "NULL",
+    "model": "Bus",
+    "class": "Service"
+  },
+  "dilettante2": {
+    "make": "Karin",
+    "model": "Dilettante",
+    "class": "Compacts"
+  },
+  "rebel": {
+    "make": "Karin",
+    "model": "Rusty Rebel",
+    "class": "Off-road"
+  },
+  "skylift": {
+    "make": "NULL",
+    "model": "Skylift",
+    "class": "Helicopters"
+  },
+  "shamal": {
+    "make": "Buckingham",
+    "model": "Shamal",
+    "class": "Planes"
+  },
+  "graintrailer": {
+    "make": "NULL",
+    "model": "NULL",
+    "class": "Utility"
+  },
+  "vader": {
+    "make": "Shitzu",
+    "model": "Vader",
+    "class": "Motorcycles"
+  },
+  "sheriff2": {
+    "make": "NULL",
+    "model": "Sheriff SUV",
+    "class": "Emergency"
+  },
+  "baletrailer": {
+    "make": "NULL",
+    "model": "Baletrailer",
+    "class": "Utility"
+  },
+  "tourbus": {
+    "make": "NULL",
+    "model": "Tourbus",
+    "class": "Service"
+  },
+  "fixter": {
+    "make": "NULL",
+    "model": "Fixter",
+    "class": "Cycles"
+  },
+  "oracle2": {
+    "make": "Ubermacht",
+    "model": "Oracle",
+    "class": "Coupes"
+  },
+  "baller2": {
+    "make": "Gallivanter",
+    "model": "Baller",
+    "class": "SUVs"
+  },
+  "buffalo2": {
+    "make": "Bravado",
+    "model": "Buffalo S",
+    "class": "Sports"
+  },
+  "cavalcade2": {
+    "make": "Albany",
+    "model": "Cavalcade",
+    "class": "SUVs"
+  },
+  "coquette": {
+    "make": "Invetero",
+    "model": "Coquette",
+    "class": "Sports"
+  },
+  "tractor3": {
+    "make": "Stanley",
+    "model": "Fieldmaster",
+    "class": "Utility"
+  },
+  "gauntlet": {
+    "make": "Bravado",
+    "model": "Gauntlet",
+    "class": "Muscle"
+  },
+  "mesa": {
+    "make": "Canis",
+    "model": "Mesa",
+    "class": "SUVs"
+  },
+  "police": {
+    "make": "NULL",
+    "model": "Police Cruiser",
+    "class": "Emergency"
+  },
+  "cargobob2": {
+    "make": "NULL",
+    "model": "Cargobob",
+    "class": "Helicopters"
+  },
+  "taxi": {
+    "make": "NULL",
+    "model": "Taxi",
+    "class": "Service"
+  },
+  "sanchez": {
+    "make": "Maibatsu",
+    "model": "Sanchez (livery)",
+    "class": "Motorcycles"
+  },
+  "flatbed": {
+    "make": "MTL",
+    "model": "Flatbed",
+    "class": "Industrial"
+  },
+  "seminole": {
+    "make": "Canis",
+    "model": "Seminole",
+    "class": "SUVs"
+  },
+  "mower": {
+    "make": "NULL",
+    "model": "Lawn Mower",
+    "class": "Utility"
+  },
+  "ztype": {
+    "make": "Truffade",
+    "model": "Z-Type",
+    "class": "Sports Classics"
+  },
+  "predator": {
+    "make": "NULL",
+    "model": "Police Predator",
+    "class": "Boats"
+  },
+  "rumpo2": {
+    "make": "Bravado",
+    "model": "Rumpo",
+    "class": "Vans"
+  },
+  "pony2": {
+    "make": "Brute",
+    "model": "Pony",
+    "class": "Vans"
+  },
+  "bjxl": {
+    "make": "Karin",
+    "model": "BeeJay XL",
+    "class": "SUVs"
+  },
+  "camper": {
+    "make": "Brute",
+    "model": "Camper",
+    "class": "Vans"
+  },
+  "rancherxl": {
+    "make": "Declasse",
+    "model": "Rancher XL",
+    "class": "Off-road"
+  },
+  "faggio2": {
+    "make": "Pegassi",
+    "model": "Faggio",
+    "class": "Motorcycles"
+  },
+  "lazer": {
+    "make": "NULL",
+    "model": "P-996 LAZER",
+    "class": "Planes"
+  },
+  "seashark": {
+    "make": "Speedophile",
+    "model": "Seashark",
+    "class": "Boats"
+  },
+  "bison": {
+    "make": "Bravado",
+    "model": "Bison",
+    "class": "Vans"
+  },
+  "fbi": {
+    "make": "NULL",
+    "model": "FIB",
+    "class": "Emergency"
+  },
+  "fbi2": {
+    "make": "NULL",
+    "model": "FIB",
+    "class": "Emergency"
+  },
+  "mule2": {
+    "make": "Maibatsu",
+    "model": "Mule",
+    "class": "Commercial"
+  },
+  "rhino": {
+    "make": "NULL",
+    "model": "Rhino Tank",
+    "class": "Military"
+  },
+  "burrito5": {
+    "make": "Declasse",
+    "model": "Burrito",
+    "class": "Vans"
+  },
+  "asea2": {
+    "make": "Declasse",
+    "model": "Asea",
+    "class": "Sedans"
+  },
+  "mesa2": {
+    "make": "Canis",
+    "model": "Mesa",
+    "class": "SUVs"
+  },
+  "mesa3": {
+    "make": "Canis",
+    "model": "Mesa",
+    "class": "Off-road"
+  },
+  "frogger2": {
+    "make": "NULL",
+    "model": "Frogger",
+    "class": "Helicopters"
+  },
+  "hotknife": {
+    "make": "Vapid",
+    "model": "Hotknife",
+    "class": "Muscle"
+  },
+  "elegy2": {
+    "make": "Annis",
+    "model": "Elegy RH8",
+    "class": "Sports"
+  },
+  "khamelion": {
+    "make": "Hijak",
+    "model": "Khamelion",
+    "class": "Sports"
+  },
+  "carbonrs": {
+    "make": "Nagasaki",
+    "model": "Carbon RS",
+    "class": "Motorcycles"
+  },
+  "dune2": {
+    "make": "NULL",
+    "model": "Space Docker",
+    "class": "Off-road"
+  },
+  "armytrailer2": {
+    "make": "NULL",
+    "model": "Army Trailer",
+    "class": "Utility"
+  },
+  "freighttrailer": {
+    "make": "NULL",
+    "model": "NULL",
+    "class": "Utility"
+  },
+  "tr4": {
+    "make": "NULL",
+    "model": "Trailer",
+    "class": "Utility"
+  },
+  "blazer3": {
+    "make": "Nagasaki",
+    "model": "Hot Rod Blazer",
+    "class": "Off-road"
+  },
+  "sanchez2": {
+    "make": "Maibatsu",
+    "model": "Sanchez",
+    "class": "Motorcycles"
+  }
+}

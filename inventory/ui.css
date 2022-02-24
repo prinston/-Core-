@@ -1,0 +1,64 @@
+:root {
+  --slotSize: 5vh;
+  --slotPadding: 0.25vh;
+  --slotMargin: 0.25vh;
+  --borderWidth: 0.1vh;
+  --finalSize: calc( calc( calc( calc( var(--slotMargin) * 2 ) + calc( var(--slotPadding) * 2 ) ) + var(--slotSize ) ) + calc( var(--borderWidth) * 2 ) ) ;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  transition: all ease-in-out 200ms;
+}
+
+body>div {
+  display: block;
+  padding: 1vh;
+  background-color: rgba(0, 0, 0, 0.25);
+  border-radius: 1vh;
+  overflow: hidden;
+  border-radius: 1vh;
+  border-color: white;
+  border-style: solid;
+  border-width: var(--borderWidth);
+  position: absolute;
+}
+
+.slot {
+  display: block;
+  padding: var(--slotPadding);
+  margin: var(--slotMargin);
+  width: var(--slotSize);
+  height: var(--slotSize);
+  border-radius: 1vh;
+  border-color: white;
+  border-style: solid;
+  border-width: var(--borderWidth);
+}
+
+.slot.active {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.slot:not(.disabled):hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+#menu {
+
+}
+
+#menu>#inventory>div.slot {
+  float: left;
+}
+
+#hotbar {
+  bottom: var(--slotMargin);
+  left: calc( 50vw - calc( calc( calc( var(--finalSize) * 10 ) / 2 ) + var(--borderWidth) ) );
+  height: var(--finalSize);
+}
+
+#hotbar>div.slot {
+  float: left;
+}

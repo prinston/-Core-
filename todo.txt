@@ -1,0 +1,21 @@
+inventory
+- weighted items
+dmv
+car dealership w/ limited supply
+trash job
+police job
+medic job
+firearm purchasing (legal and illegal)
+firefighter job
+jail - timeout from playing character
+hospital - no timeout just monetary cost
+clothing variations (hoodies helmets etc)
+anitsocial security number
+phones
+garages
+
+
+
+homes
+docks
+hangers
