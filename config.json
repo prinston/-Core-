@@ -8,8 +8,8 @@
   },
   "discord": {
     "use": false,
-    "token": "OTM2OTg5MjUwNDU1NDk4Nzgy.YfVNPQ.JSczHB8Hf-3x8Nm6Vl2FE2rRyY4",
-    "guildId": "936988717715972146"
+    "token": "",
+    "guildId": ""
   },
   "starting": {
     "cash": 5000,
